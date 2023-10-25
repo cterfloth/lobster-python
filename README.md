@@ -8,4 +8,4 @@ Open source catch data by fishing port from 2008-2022 was sourced from the Maine
 https://mainedmr.shinyapps.io/Landings_Portal/ 
 
 ## Tools
-Analysis was conducted using Jupiter notebooks, Anaconda libraries manager, and Python (with pandas, NumPy, os, matplotlib, scipy, seaborn, and sklearn libraries).
+Analysis was conducted using Jupiter notebooks, Anaconda libraries manager, and Python (with pandas, NumPy, os, matplotlib, scipy, seaborn, folium, and sklearn libraries).
