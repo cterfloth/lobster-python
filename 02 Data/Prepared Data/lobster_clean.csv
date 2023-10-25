@@ -1,0 +1,1115 @@
+,Unnamed: 0,year,species,port,county,weight_type,weight,value,number_harvesters,price_per_lb
+182,182,2008,Lobster American,Addison,Washington,Live Pounds,874072.35,2811848.728,80,3.216951924
+183,183,2008,Lobster American,Bailey Island,Cumberland,Live Pounds,1300961.05,4380685.491,100,3.367268752
+184,184,2008,Lobster American,Bar Harbor,Hancock,Live Pounds,749213.48,2761140.098,71,3.685384969
+185,185,2008,Lobster American,Bass Harbor,Hancock,Live Pounds,860515.0,3237508.82,89,3.762292139
+186,186,2008,Lobster American,Beals,Washington,Live Pounds,1463538.05,4777283.831,173,3.264202001
+187,187,2008,Lobster American,Birch Harbor,Hancock,Live Pounds,469693.5,1686542.55,20,3.590730019
+188,188,2008,Lobster American,Blue Hill,Hancock,Live Pounds,501952.97,1871689.247,58,3.72881397
+189,189,2008,Lobster American,Boothbay Harbor,Lincoln,Live Pounds,1167021.1,4076446.84,144,3.493036107
+190,190,2008,Lobster American,Bremen,Lincoln,Live Pounds,714036.2,2313529.645,67,3.240073325
+191,191,2008,Lobster American,Brooksville,Hancock,Live Pounds,16853.2,66952.768,9,3.972703582
+192,192,2008,Lobster American,Bucks Harbor,Washington,Live Pounds,973688.6,3235568.815,83,3.32300164
+193,193,2008,Lobster American,Cape Porpoise,York,Live Pounds,564253.5,2139812.17,56,3.792288696
+194,194,2008,Lobster American,Cundys Harbor,Cumberland,Live Pounds,838868.2,2736997.42,51,3.262726397
+195,195,2008,Lobster American,Cushing,Knox,Live Pounds,1383106.1,4816284.71,85,3.482223605
+196,196,2008,Lobster American,Cutler,Washington,Live Pounds,1252792.3,4253588.005,58,3.395285879
+197,197,2008,Lobster American,Deer Isle,Hancock,Live Pounds,1018364.7,3676703.91,71,3.610399997
+198,198,2008,Lobster American,Eastport,Washington,Live Pounds,471958.15,1792250.088,31,3.797476721
+199,199,2008,Lobster American,Falmouth,Cumberland,Live Pounds,36272.03,154156.465,9,4.250009305
+200,200,2008,Lobster American,Five Islands,Sagadahoc,Live Pounds,230983.9,835550.37,52,3.617353287
+201,201,2008,Lobster American,Freeport,Cumberland,Live Pounds,650370.5,2367096.44,54,3.639612252
+202,202,2008,Lobster American,Friendship,Knox,Live Pounds,3050380.03,10957629.81,189,3.592217921
+203,203,2008,Lobster American,Georgetown,Sagadahoc,Live Pounds,290645.56,960823.85,33,3.305826691
+204,204,2008,Lobster American,Gouldsboro,Hancock,Live Pounds,327995.4,1016548.85,30,3.099277764
+205,205,2008,Lobster American,Gouldsboro,Hancock,Live Pounds,15840.0,55011.8,3,3.472967172
+206,206,2008,Lobster American,Hancock,Hancock,Live Pounds,25261.9,93814.013,8,3.713656257
+207,207,2008,Lobster American,Harpswell,Cumberland,Live Pounds,1971295.05,6725615.28,190,3.411775056
+208,208,2008,Lobster American,Harrington,Washington,Live Pounds,332511.03,1136885.544,29,3.419091222
+209,209,2008,Lobster American,Jonesport,Washington,Live Pounds,2815796.4,9551861.43,247,3.392241509
+210,210,2008,Lobster American,Kennebunkport,York,Live Pounds,194220.16,724326.245,36,3.729408137
+211,211,2008,Lobster American,Kittery,York,Live Pounds,1130809.51,4527935.65,83,4.004154201
+212,212,2008,Lobster American,Lincolnville,Waldo,Live Pounds,21775.65,83585.86,7,3.838501262
+213,213,2008,Lobster American,Milbridge,Washington,Live Pounds,1462483.0,5135465.14,87,3.511469973
+214,214,2008,Lobster American,Monhegan,Lincoln,Live Pounds,71414.45,237527.95,10,3.32604886
+215,215,2008,Lobster American,Mount Desert,Hancock,Live Pounds,2529.8,11469.633,6,4.533810183
+216,216,2008,Lobster American,New Harbor,Lincoln,Live Pounds,989284.2,3250697.95,46,3.285909095
+217,217,2008,Lobster American,Ogunquit,York,Live Pounds,136430.01,504406.778,11,3.697183472
+218,218,2008,Lobster American,Other Hancock,Hancock,Live Pounds,72561.15,273727.051,9,3.772363737
+219,219,2008,Lobster American,Other Hancock,Hancock,Live Pounds,89279.8,340361.941,23,3.812306266
+220,220,2008,Lobster American,Other Maine,Not-Specified,Live Pounds,8664950.16,30757825.57,791,3.549682918
+221,221,2008,Lobster American,Other York,York,Live Pounds,210409.28,864417.89,17,4.108268846
+222,222,2008,Lobster American,Owls Head,Knox,Live Pounds,1325949.87,4710258.765,77,3.552365645
+223,223,2008,Lobster American,Penobscot,Hancock,Live Pounds,9822.05,36161.42,6,3.681657088
+224,224,2008,Lobster American,Phippsburg,Sagadahoc,Live Pounds,357215.6,1376228.06,58,3.852653859
+225,225,2008,Lobster American,Pine Point,Cumberland,Live Pounds,72298.33,274940.964,9,3.802867424
+226,226,2008,Lobster American,Port Clyde,Knox,Live Pounds,1978674.39,6540932.218,155,3.305714296
+227,227,2008,Lobster American,Portland,Cumberland,Live Pounds,2205875.17,8279837.999,238,3.753538782
+228,228,2008,Lobster American,Rockland,Knox,Live Pounds,1172352.19,4303755.536,182,3.671043201
+229,229,2008,Lobster American,Rockport,Knox,Live Pounds,152156.82,527197.905,22,3.464832566
+230,230,2008,Lobster American,Round Pond,Lincoln,Live Pounds,495832.0,1594403.845,55,3.21561304
+231,231,2008,Lobster American,Scarborough,Cumberland,Live Pounds,227899.37,867554.168,38,3.806742283
+232,232,2008,Lobster American,South Bristol,Lincoln,Live Pounds,1310524.8,4303217.79,101,3.283583638
+233,233,2008,Lobster American,South Thomaston,Knox,Live Pounds,2803.93,11936.285,9,4.256983948
+234,234,2008,Lobster American,Southwest Harbor,Hancock,Live Pounds,1017184.9,3773312.189,97,3.709563708
+235,235,2008,Lobster American,Spruce Head,Knox,Live Pounds,3171262.94,10276922.07,177,3.240640169
+236,236,2008,Lobster American,Steuben,Washington,Live Pounds,1297762.04,4567207.375,87,3.519294936
+237,237,2008,Lobster American,Stonington,Hancock,Live Pounds,7186042.45,25582771.45,368,3.560064059
+238,238,2008,Lobster American,Swans Island,Hancock,Live Pounds,1464290.07,5478767.433,93,3.741586141
+239,239,2008,Lobster American,Tenants Harbor,Knox,Live Pounds,1925158.99,6364455.608,107,3.305937661
+240,240,2008,Lobster American,Tremont,Hancock,Live Pounds,380709.3,1495759.031,65,3.928874422
+241,241,2008,Lobster American,Vinalhaven,Knox,Live Pounds,5184632.45,18224609.66,227,3.515120857
+242,242,2008,Lobster American,Wells,York,Live Pounds,28571.5,101090.074,7,3.538143745
+243,243,2008,Lobster American,Winter Harbor,Hancock,Live Pounds,1032016.0,3290376.575,43,3.188299963
+244,244,2008,Lobster American,York,York,Live Pounds,495081.29,1966754.59,35,3.972589209
+482,482,2009,Lobster American,Addison,Washington,Live Pounds,970421.25,2549251.662,108,2.626953668
+483,483,2009,Lobster American,Bailey Island,Cumberland,Live Pounds,1428187.2,4173242.112,104,2.922055394
+484,484,2009,Lobster American,Bar Harbor,Hancock,Live Pounds,663631.6,2198787.347,45,3.313264991
+485,485,2009,Lobster American,Bass Harbor,Hancock,Live Pounds,1320445.0,4236815.53,125,3.208627039
+486,486,2009,Lobster American,Beals,Washington,Live Pounds,2599936.36,7452947.778,219,2.866588541
+487,487,2009,Lobster American,Belfast,Waldo,Live Pounds,127554.01,361981.368,44,2.83786741
+488,488,2009,Lobster American,Blue Hill,Hancock,Live Pounds,604964.1,1706482.494,51,2.820799604
+489,489,2009,Lobster American,Boothbay,Lincoln,Live Pounds,174903.0,460727.67,42,2.634189637
+490,490,2009,Lobster American,Boothbay Harbor,Lincoln,Live Pounds,956241.2,3594046.265,132,3.758514342
+491,491,2009,Lobster American,Bremen,Lincoln,Live Pounds,776282.3,1993660.966,64,2.568216441
+492,492,2009,Lobster American,Brooklin,Hancock,Live Pounds,25558.8,74124.865,12,2.90017
+493,493,2009,Lobster American,Brooksville,Hancock,Live Pounds,23318.85,70057.581,6,3.004332589
+494,494,2009,Lobster American,Bucks Harbor,Washington,Live Pounds,735252.3,1980043.44,68,2.693012235
+495,495,2009,Lobster American,Cape Porpoise,York,Live Pounds,715460.2,2344081.44,48,3.276326817
+496,496,2009,Lobster American,Castine,Hancock,Live Pounds,11328.2,30656.18,3,2.7061828
+497,497,2009,Lobster American,Cundys Harbor,Cumberland,Live Pounds,1149877.3,3167319.31,79,2.754484596
+498,498,2009,Lobster American,Cushing,Knox,Live Pounds,1332685.4,4234861.502,76,3.177690325
+499,499,2009,Lobster American,Cutler,Washington,Live Pounds,1535849.0,4742734.38,50,3.08802127
+500,500,2009,Lobster American,Deer Isle,Hancock,Live Pounds,763369.7,2226180.71,42,2.916255007
+501,501,2009,Lobster American,Eastport,Washington,Live Pounds,615024.46,2101915.581,29,3.417612986
+502,502,2009,Lobster American,Falmouth,Cumberland,Live Pounds,36004.3,130852.49,7,3.634357285
+503,503,2009,Lobster American,Five Islands,Sagadahoc,Live Pounds,315122.5,939393.625,50,2.98104269
+504,504,2009,Lobster American,Freeport,Cumberland,Live Pounds,193822.0,572980.6,16,2.956220656
+505,505,2009,Lobster American,Frenchboro,Hancock,Live Pounds,252534.55,795468.46,25,3.149939127
+506,506,2009,Lobster American,Friendship,Knox,Live Pounds,3561330.15,10454725.67,179,2.935623834
+507,507,2009,Lobster American,Georgetown,Sagadahoc,Live Pounds,250797.81,708142.86,26,2.82356078
+508,508,2009,Lobster American,Gouldsboro,Hancock,Live Pounds,341649.3,862057.03,30,2.523222
+509,509,2009,Lobster American,Gouldsboro,Hancock,Live Pounds,33490.0,109947.25,3,3.282987459
+510,510,2009,Lobster American,Hancock,Hancock,Live Pounds,114679.47,355058.86,21,3.096097846
+511,511,2009,Lobster American,Harpswell,Cumberland,Live Pounds,2314639.46,6613186.002,180,2.857112789
+512,512,2009,Lobster American,Harrington,Washington,Live Pounds,599035.05,1785762.267,38,2.981064742
+513,513,2009,Lobster American,Islesboro,Waldo,Live Pounds,109871.25,303888.32,15,2.765858402
+514,514,2009,Lobster American,Jonesport,Washington,Live Pounds,2612190.16,7329238.495,251,2.805782905
+515,515,2009,Lobster American,Kennebunkport,York,Live Pounds,184881.14,613819.87,28,3.320078349
+516,516,2009,Lobster American,Kittery,York,Live Pounds,1140214.09,3773315.659,87,3.309304535
+517,517,2009,Lobster American,Lamoine,Hancock,Live Pounds,138124.0,453878.85,30,3.286024514
+518,518,2009,Lobster American,Milbridge,Washington,Live Pounds,1656981.11,4720213.115,92,2.848682515
+519,519,2009,Lobster American,Monhegan,Lincoln,Live Pounds,39417.97,151093.519,9,3.833112639
+520,520,2009,Lobster American,New Harbor,Lincoln,Live Pounds,1006140.26,2823227.955,51,2.805998395
+521,521,2009,Lobster American,Ogunquit,York,Live Pounds,224343.54,739399.829,13,3.295837397
+522,522,2009,Lobster American,Other Hancock,Hancock,Live Pounds,100690.8,324282.619,8,3.220578434
+523,523,2009,Lobster American,Other Hancock,Hancock,Live Pounds,49518.4,161947.554,20,3.270452074
+524,524,2009,Lobster American,Other Maine,Not-Specified,Live Pounds,8753838.91,26116590.87,669,2.983444308
+525,525,2009,Lobster American,Other York,York,Live Pounds,228989.5,771420.045,21,3.368800949
+526,526,2009,Lobster American,Owls Head,Knox,Live Pounds,1908663.54,5671172.008,86,2.971279059
+527,527,2009,Lobster American,Penobscot,Hancock,Live Pounds,6995.4,20662.235,5,2.953688853
+528,528,2009,Lobster American,Phippsburg,Sagadahoc,Live Pounds,541789.0,1759730.28,44,3.247999276
+529,529,2009,Lobster American,Pine Point,Cumberland,Live Pounds,55440.23,176555.942,9,3.184617777
+530,530,2009,Lobster American,Port Clyde,Knox,Live Pounds,2812726.47,7720441.671,189,2.744824907
+531,531,2009,Lobster American,Portland,Cumberland,Live Pounds,2434758.4,7571998.949,241,3.109959062
+532,532,2009,Lobster American,Prospect Harbor,Hancock,Live Pounds,591932.0,1801115.4,28,3.04277417
+533,533,2009,Lobster American,Rockland,Knox,Live Pounds,2717723.89,8015821.802,204,2.949461434
+534,534,2009,Lobster American,Rockport,Knox,Live Pounds,169698.69,480336.909,23,2.830528091
+535,535,2009,Lobster American,Round Pond,Lincoln,Live Pounds,435866.89,1140833.415,41,2.617389486
+536,536,2009,Lobster American,Saco,York,Live Pounds,54599.4,181999.1,21,3.33335348
+537,537,2009,Lobster American,Scarborough,Cumberland,Live Pounds,252854.65,787642.913,31,3.115002682
+538,538,2009,Lobster American,South Bristol,Lincoln,Live Pounds,1505896.02,4265916.28,100,2.83280932
+539,539,2009,Lobster American,South Thomaston,Knox,Live Pounds,425200.63,1224540.68,23,2.879912666
+540,540,2009,Lobster American,Southwest Harbor,Hancock,Live Pounds,1508116.27,5065990.876,150,3.359151398
+541,541,2009,Lobster American,Spruce Head,Knox,Live Pounds,2962924.63,7079176.525,148,2.389252988
+542,542,2009,Lobster American,St. George,Knox,Live Pounds,93182.84,316313.61,11,3.394547859
+543,543,2009,Lobster American,Steuben,Washington,Live Pounds,1413494.9,4125765.006,84,2.918839683
+544,544,2009,Lobster American,Stonington,Hancock,Live Pounds,9155486.1,25752633.48,376,2.812808976
+545,545,2009,Lobster American,Sullivan,Hancock,Live Pounds,90182.5,290368.909,13,3.219792188
+546,546,2009,Lobster American,Swans Island,Hancock,Live Pounds,2112753.39,6283812.08,128,2.974228847
+547,547,2009,Lobster American,Tenants Harbor,Knox,Live Pounds,1694345.52,4535460.024,87,2.676821209
+548,548,2009,Lobster American,Tremont,Hancock,Live Pounds,457454.51,1464825.188,66,3.202122082
+549,549,2009,Lobster American,Trenton,Hancock,Live Pounds,126189.75,396257.638,31,3.140172938
+550,550,2009,Lobster American,Vinalhaven,Knox,Live Pounds,4719606.35,13650575.01,219,2.892312197
+551,551,2009,Lobster American,Wells,York,Live Pounds,35442.34,119742.664,8,3.378520267
+552,552,2009,Lobster American,Westport Island,Lincoln,Live Pounds,85585.3,233359.445,23,2.726629982
+553,553,2009,Lobster American,Winter Harbor,Hancock,Live Pounds,1169618.5,3361165.915,39,2.873728412
+554,554,2009,Lobster American,Yarmouth,Cumberland,Live Pounds,321183.3,968220.575,42,3.014542085
+555,555,2009,Lobster American,York,York,Live Pounds,526331.05,1764645.61,32,3.352729447
+767,767,2010,Lobster American,Addison,Washington,Live Pounds,1208556.46,3610369.841,81,2.98734065
+768,768,2010,Lobster American,Bailey Island,Cumberland,Live Pounds,1536581.92,5129486.472,75,3.338244714
+769,769,2010,Lobster American,Bar Harbor,Hancock,Live Pounds,945626.26,3556241.639,31,3.760726398
+770,770,2010,Lobster American,Bass Harbor,Hancock,Live Pounds,2011482.55,7134756.935,136,3.547014084
+771,771,2010,Lobster American,Beals,Washington,Live Pounds,3418648.18,10712121.23,216,3.133437741
+772,772,2010,Lobster American,Belfast,Waldo,Live Pounds,181319.86,606141.484,42,3.342940393
+773,773,2010,Lobster American,Blue Hill,Hancock,Live Pounds,883767.55,2945233.94,53,3.332588914
+774,774,2010,Lobster American,Boothbay,Lincoln,Live Pounds,5577.0,20762.8,5,3.722933477
+775,775,2010,Lobster American,Boothbay Harbor,Lincoln,Live Pounds,1165040.9,3778447.57,132,3.243188776
+776,776,2010,Lobster American,Bremen,Lincoln,Live Pounds,871969.29,2548066.34,62,2.92219734
+777,777,2010,Lobster American,Brooklin,Hancock,Live Pounds,200040.92,618028.13,16,3.089508537
+778,778,2010,Lobster American,Brooksville,Hancock,Live Pounds,20059.6,71439.098,6,3.561342101
+779,779,2010,Lobster American,Cape Elizabeth,Cumberland,Live Pounds,108783.5,394407.94,24,3.62562282
+780,780,2010,Lobster American,Cape Porpoise,York,Live Pounds,686195.5,2516629.375,46,3.667510753
+781,781,2010,Lobster American,Cundys Harbor,Cumberland,Live Pounds,1301476.42,4141077.135,64,3.181830321
+782,782,2010,Lobster American,Cushing,Knox,Live Pounds,1496721.75,5084616.524,72,3.397168862
+783,783,2010,Lobster American,Cutler,Washington,Live Pounds,1738808.5,5933265.44,51,3.41225928
+784,784,2010,Lobster American,Deer Isle,Hancock,Live Pounds,161783.2,560577.425,13,3.464991575
+785,785,2010,Lobster American,Eastport,Washington,Live Pounds,837162.51,3149041.452,32,3.761565305
+786,786,2010,Lobster American,Falmouth,Cumberland,Live Pounds,30215.6,118746.63,5,3.929977561
+787,787,2010,Lobster American,Five Islands,Sagadahoc,Live Pounds,302906.3,1058327.858,43,3.493911675
+788,788,2010,Lobster American,Freeport,Cumberland,Live Pounds,253753.2,895282.645,16,3.528162975
+789,789,2010,Lobster American,Frenchboro,Hancock,Live Pounds,246290.3,830459.16,19,3.371871162
+790,790,2010,Lobster American,Friendship,Knox,Live Pounds,3988157.8,14144978.4,175,3.546744916
+791,791,2010,Lobster American,Georgetown,Sagadahoc,Live Pounds,292870.6,984366.95,25,3.361098553
+792,792,2010,Lobster American,Gouldsboro,Hancock,Live Pounds,331789.2,971205.12,24,2.927175206
+793,793,2010,Lobster American,Gouldsboro,Hancock,Live Pounds,32866.5,122607.2,2,3.730461108
+794,794,2010,Lobster American,Hancock,Hancock,Live Pounds,182562.45,647024.903,26,3.544129162
+795,795,2010,Lobster American,Harpswell,Cumberland,Live Pounds,2572267.2,8504880.503,199,3.30637521
+796,796,2010,Lobster American,Harrington,Washington,Live Pounds,788245.15,2776411.9,33,3.522269563
+797,797,2010,Lobster American,Islesboro,Waldo,Live Pounds,124991.4,384535.26,10,3.076493743
+798,798,2010,Lobster American,Jonesport,Washington,Live Pounds,2759478.5,8909438.6,189,3.228667518
+799,799,2010,Lobster American,Kennebunkport,York,Live Pounds,197060.69,700322.915,23,3.553843818
+800,800,2010,Lobster American,Kittery,York,Live Pounds,1166674.84,4246177.773,76,3.639555451
+801,801,2010,Lobster American,Lamoine,Hancock,Live Pounds,180629.15,665459.315,19,3.684119175
+802,802,2010,Lobster American,Lubec,Washington,Live Pounds,197471.36,733550.991,30,3.714720914
+803,803,2010,Lobster American,Machiasport,Washington,Live Pounds,807025.0,2597432.785,50,3.21852828
+804,804,2010,Lobster American,Matinicus,Knox,Live Pounds,836534.43,3074495.441,46,3.67527663
+805,805,2010,Lobster American,Milbridge,Washington,Live Pounds,2296008.8,7528936.865,88,3.279141119
+806,806,2010,Lobster American,Monhegan,Lincoln,Live Pounds,77949.05,326812.73,10,4.192645452
+807,807,2010,Lobster American,New Harbor,Lincoln,Live Pounds,985786.77,3103343.818,47,3.148088321
+808,808,2010,Lobster American,Northeast Harbor,Hancock,Live Pounds,400279.55,1518717.832,19,3.794142948
+809,809,2010,Lobster American,Ogunquit,York,Live Pounds,208862.1,770527.605,11,3.689169098
+810,810,2010,Lobster American,Other Cumberland,Cumberland,Live Pounds,72533.4,270105.86,4,3.723882515
+811,811,2010,Lobster American,Other Hancock,Hancock,Live Pounds,169169.15,602857.484,11,3.563637247
+812,812,2010,Lobster American,Other Hancock,Hancock,Live Pounds,20699.9,73232.045,5,3.537797042
+813,813,2010,Lobster American,Other Maine,Not-Specified,Live Pounds,8779810.07,29538977.23,482,3.364420983
+814,814,2010,Lobster American,Other Waldo,Waldo,Live Pounds,1639.8,6754.405,4,4.119041956
+815,815,2010,Lobster American,Owls Head,Knox,Live Pounds,1721303.69,6079829.415,52,3.53210735
+816,816,2010,Lobster American,Pemaquid,Lincoln,Live Pounds,255134.1,833876.885,28,3.268386645
+817,817,2010,Lobster American,Penobscot,Hancock,Live Pounds,6992.2,23719.166,5,3.392232202
+818,818,2010,Lobster American,Phippsburg,Sagadahoc,Live Pounds,358826.52,1304481.34,30,3.635409501
+819,819,2010,Lobster American,Pine Point,Cumberland,Live Pounds,8128.03,31726.313,4,3.903321346
+820,820,2010,Lobster American,Port Clyde,Knox,Live Pounds,2481484.61,7838310.274,155,3.158718068
+821,821,2010,Lobster American,Portland,Cumberland,Live Pounds,2796452.37,9968374.521,195,3.564650208
+822,822,2010,Lobster American,Prospect Harbor,Hancock,Live Pounds,626296.0,2193107.9,33,3.501711491
+823,823,2010,Lobster American,Rockland,Knox,Live Pounds,2118440.24,7551932.041,191,3.564854886
+824,824,2010,Lobster American,Rockport,Knox,Live Pounds,292060.46,994936.036,22,3.406609837
+825,825,2010,Lobster American,Round Pond,Lincoln,Live Pounds,548434.86,1696466.515,46,3.093287168
+826,826,2010,Lobster American,Saco,York,Live Pounds,72039.32,247505.24,15,3.435696506
+827,827,2010,Lobster American,Scarborough,Cumberland,Live Pounds,417373.43,1438080.261,41,3.445548177
+828,828,2010,Lobster American,Sorrento,Hancock,Live Pounds,357788.52,1086208.47,27,3.035895255
+829,829,2010,Lobster American,South Bristol,Lincoln,Live Pounds,1481919.63,4674166.85,95,3.154129789
+830,830,2010,Lobster American,South Thomaston,Knox,Live Pounds,450858.0,1551575.32,19,3.441383584
+831,831,2010,Lobster American,Southport,Lincoln,Live Pounds,375965.5,1221130.9,33,3.247986584
+832,832,2010,Lobster American,Southwest Harbor,Hancock,Live Pounds,1806522.33,6540708.7,125,3.620607723
+833,833,2010,Lobster American,Spruce Head,Knox,Live Pounds,3555223.16,10169359.59,173,2.860399793
+834,834,2010,Lobster American,Steuben,Washington,Live Pounds,1854797.5,5908002.951,87,3.185254968
+835,835,2010,Lobster American,Stonington,Hancock,Live Pounds,14569084.43,46512113.22,451,3.192521359
+836,836,2010,Lobster American,Sullivan,Hancock,Live Pounds,147826.45,536298.908,13,3.627895468
+837,837,2010,Lobster American,Swans Island,Hancock,Live Pounds,2302719.9,7780293.014,96,3.378740512
+838,838,2010,Lobster American,Tenants Harbor,Knox,Live Pounds,2264445.75,6866002.46,89,3.032089623
+839,839,2010,Lobster American,Trenton,Hancock,Live Pounds,17261.2,64079.32,15,3.712332862
+840,840,2010,Lobster American,Vinalhaven,Knox,Live Pounds,5842761.15,18982905.85,204,3.248961469
+841,841,2010,Lobster American,Waldoboro,Lincoln,Live Pounds,43997.0,170401.54,5,3.873026343
+842,842,2010,Lobster American,Wells,York,Live Pounds,35547.08,126076.187,10,3.546738213
+843,843,2010,Lobster American,West Bath,Sagadahoc,Live Pounds,4236.5,13298.92,4,3.139128998
+844,844,2010,Lobster American,Winter Harbor,Hancock,Live Pounds,1476912.0,4902237.26,40,3.319248039
+845,845,2010,Lobster American,Wiscasset,Lincoln,Live Pounds,171648.5,533345.825,23,3.107197703
+846,846,2010,Lobster American,Yarmouth,Cumberland,Live Pounds,110191.2,412684.075,35,3.745163634
+847,847,2010,Lobster American,York,York,Live Pounds,551969.91,2021978.802,32,3.663204761
+1090,1090,2011,Lobster American,Addison,Washington,Live Pounds,1218808.15,3313274.809,88,2.718454754
+1091,1091,2011,Lobster American,Bailey Island,Cumberland,Live Pounds,1622881.33,5351862.056,80,3.297753173
+1092,1092,2011,Lobster American,Bar Harbor,Hancock,Live Pounds,1183074.58,4012513.873,53,3.391598417
+1093,1093,2011,Lobster American,Bass Harbor,Hancock,Live Pounds,2298947.0,7732566.05,114,3.363525149
+1094,1094,2011,Lobster American,Beals,Washington,Live Pounds,3744067.94,11148829.22,221,2.977731547
+1095,1095,2011,Lobster American,Belfast,Waldo,Live Pounds,223052.79,679324.067,43,3.045575296
+1096,1096,2011,Lobster American,Biddeford Pool,York,Live Pounds,179734.61,641118.355,22,3.567027825
+1097,1097,2011,Lobster American,Blue Hill,Hancock,Live Pounds,1262613.01,4123448.201,56,3.265805253
+1098,1098,2011,Lobster American,Boothbay,Lincoln,Live Pounds,10248.58,42144.0,5,4.112179443
+1099,1099,2011,Lobster American,Boothbay Harbor,Lincoln,Live Pounds,1350867.81,4364008.926,126,3.230522553
+1100,1100,2011,Lobster American,Bremen,Lincoln,Live Pounds,867123.13,2575419.88,59,2.970074019
+1101,1101,2011,Lobster American,Brooklin,Hancock,Live Pounds,143016.49,435417.583,12,3.044527124
+1102,1102,2011,Lobster American,Brooksville,Hancock,Live Pounds,48025.26,159854.327,10,3.328546831
+1103,1103,2011,Lobster American,Bucks Harbor,Washington,Live Pounds,326048.7,944643.735,35,2.897247359
+1104,1104,2011,Lobster American,Camden,Knox,Live Pounds,6837.79,22485.278,4,3.28838382
+1105,1105,2011,Lobster American,Cape Elizabeth,Cumberland,Live Pounds,98663.15,363038.103,23,3.67957138
+1106,1106,2011,Lobster American,Cape Porpoise,York,Live Pounds,692716.53,2444457.0,48,3.528798425
+1107,1107,2011,Lobster American,Cundys Harbor,Cumberland,Live Pounds,1339013.13,4158309.363,64,3.105503053
+1108,1108,2011,Lobster American,Cushing,Knox,Live Pounds,1676328.21,5662931.083,79,3.378175616
+1109,1109,2011,Lobster American,Cutler,Washington,Live Pounds,1917014.5,5836357.646,58,3.044503652
+1110,1110,2011,Lobster American,Deer Isle,Hancock,Live Pounds,386677.5,1309720.285,32,3.387112736
+1111,1111,2011,Lobster American,Eastport,Washington,Live Pounds,802852.7,2748950.349,35,3.423978457
+1112,1112,2011,Lobster American,Edgecomb,Lincoln,Live Pounds,4432.0,13273.13,4,2.994839801
+1113,1113,2011,Lobster American,Falmouth,Cumberland,Live Pounds,34840.7,140924.207,7,4.044815604
+1114,1114,2011,Lobster American,Five Islands,Sagadahoc,Live Pounds,163001.75,604600.89,33,3.709168092
+1115,1115,2011,Lobster American,Freeport,Cumberland,Live Pounds,245749.5,840520.9,16,3.420234426
+1116,1116,2011,Lobster American,Friendship,Knox,Live Pounds,4325524.0,14517817.37,172,3.356314141
+1117,1117,2011,Lobster American,Georgetown,Sagadahoc,Live Pounds,317803.09,1032052.76,22,3.247459803
+1118,1118,2011,Lobster American,Gouldsboro,Hancock,Live Pounds,491533.8,1288578.74,24,2.621546555
+1119,1119,2011,Lobster American,Gouldsboro,Hancock,Live Pounds,32469.0,116154.15,5,3.577386122
+1120,1120,2011,Lobster American,Hancock,Hancock,Live Pounds,224507.35,773376.636,24,3.444772013
+1121,1121,2011,Lobster American,Harpswell,Cumberland,Live Pounds,2793678.29,9295513.272,184,3.327338479
+1122,1122,2011,Lobster American,Islesboro,Waldo,Live Pounds,128682.85,418540.41,7,3.252495651
+1123,1123,2011,Lobster American,Jonesport,Washington,Live Pounds,2722772.55,7709565.427,175,2.831512837
+1124,1124,2011,Lobster American,Kennebunkport,York,Live Pounds,193801.23,667230.362,23,3.442859274
+1125,1125,2011,Lobster American,Kittery,York,Live Pounds,1228797.9,4493244.585,72,3.656618053
+1126,1126,2011,Lobster American,Lincolnville,Waldo,Live Pounds,37005.0,124436.69,5,3.362699365
+1127,1127,2011,Lobster American,Lubec,Washington,Live Pounds,223461.25,845784.221,30,3.784925668
+1128,1128,2011,Lobster American,Machiasport,Washington,Live Pounds,1089959.62,3131018.635,48,2.872600579
+1129,1129,2011,Lobster American,Milbridge,Washington,Live Pounds,2509756.6,7943347.59,112,3.16498723
+1130,1130,2011,Lobster American,Monhegan,Lincoln,Live Pounds,63478.27,250163.17,11,3.940926084
+1131,1131,2011,Lobster American,New Harbor,Lincoln,Live Pounds,1048239.5,3162010.795,48,3.016496512
+1132,1132,2011,Lobster American,Ogunquit,York,Live Pounds,268047.61,974035.295,15,3.633814512
+1133,1133,2011,Lobster American,Other Cumberland,Cumberland,Live Pounds,73656.1,264950.775,3,3.597132824
+1134,1134,2011,Lobster American,Other Maine,Not-Specified,Live Pounds,11414532.54,36936692.37,620,3.235935615
+1135,1135,2011,Lobster American,Owls Head,Knox,Live Pounds,2039086.67,6791522.32,49,3.330668784
+1136,1136,2011,Lobster American,Pemaquid,Lincoln,Live Pounds,248966.5,794349.92,29,3.190589577
+1137,1137,2011,Lobster American,Penobscot,Hancock,Live Pounds,13049.0,44476.631,4,3.40843214
+1138,1138,2011,Lobster American,Phippsburg,Sagadahoc,Live Pounds,413174.73,1527567.404,34,3.697146251
+1139,1139,2011,Lobster American,Pine Point,Cumberland,Live Pounds,10820.45,35805.0,5,3.309012102
+1140,1140,2011,Lobster American,Port Clyde,Knox,Live Pounds,2512218.5,7468168.08,137,2.972738271
+1141,1141,2011,Lobster American,Portland,Cumberland,Live Pounds,3200965.23,11114827.89,199,3.47233634
+1142,1142,2011,Lobster American,Prospect Harbor,Hancock,Live Pounds,697689.0,2328791.225,58,3.337864328
+1143,1143,2011,Lobster American,Rockland,Knox,Live Pounds,5365558.74,18647636.7,297,3.475432402
+1144,1144,2011,Lobster American,Rockport,Knox,Live Pounds,388664.53,1252485.812,18,3.222536958
+1145,1145,2011,Lobster American,Round Pond,Lincoln,Live Pounds,510368.71,1558569.115,42,3.053810088
+1146,1146,2011,Lobster American,Saco,York,Live Pounds,70201.3,250551.225,17,3.569039676
+1147,1147,2011,Lobster American,Scarborough,Cumberland,Live Pounds,411376.02,1390402.21,40,3.379881525
+1148,1148,2011,Lobster American,Sebasco,Sagadahoc,Live Pounds,42915.0,120352.55,6,2.804440172
+1149,1149,2011,Lobster American,South Bristol,Lincoln,Live Pounds,1486807.65,4650300.72,105,3.127708362
+1150,1150,2011,Lobster American,South Thomaston,Knox,Live Pounds,467402.06,1539832.3,24,3.294449109
+1151,1151,2011,Lobster American,Southport,Lincoln,Live Pounds,409370.5,1317955.56,35,3.219468819
+1152,1152,2011,Lobster American,Southwest Harbor,Hancock,Live Pounds,1934349.09,6737146.307,122,3.482900962
+1153,1153,2011,Lobster American,Spruce Head,Knox,Live Pounds,3793805.56,10787584.86,184,2.843473312
+1154,1154,2011,Lobster American,St. George,Knox,Live Pounds,107679.3,379006.62,7,3.519772324
+1155,1155,2011,Lobster American,Steuben,Washington,Live Pounds,1496817.95,4687509.185,79,3.1316495
+1156,1156,2011,Lobster American,Stockton Springs,Waldo,Live Pounds,61277.16,208075.021,7,3.395637477
+1157,1157,2011,Lobster American,Stonington,Hancock,Live Pounds,15571523.32,48224275.65,414,3.096952986
+1158,1158,2011,Lobster American,Sullivan,Hancock,Live Pounds,156964.0,552337.6,10,3.518880762
+1159,1159,2011,Lobster American,Swans Island,Hancock,Live Pounds,2184196.81,7188272.933,92,3.29103719
+1160,1160,2011,Lobster American,Tenants Harbor,Knox,Live Pounds,2309063.46,6508024.175,95,2.818469171
+1161,1161,2011,Lobster American,Tremont,Hancock,Live Pounds,332483.78,1224923.13,5,3.684159059
+1162,1162,2011,Lobster American,Trenton,Hancock,Live Pounds,81565.0,269267.67,27,3.301264881
+1163,1163,2011,Lobster American,Vinalhaven,Knox,Live Pounds,5498650.85,16686985.44,195,3.034741775
+1164,1164,2011,Lobster American,Wells,York,Live Pounds,41715.79,144044.413,10,3.452994969
+1165,1165,2011,Lobster American,Winter Harbor,Hancock,Live Pounds,1427777.0,4321574.75,43,3.02678552
+1166,1166,2011,Lobster American,Yarmouth,Cumberland,Live Pounds,35891.3,135092.145,7,3.763924544
+1167,1167,2011,Lobster American,York,York,Live Pounds,567989.42,2037512.67,29,3.587237012
+1404,1404,2012,Lobster American,Addison,Washington,Live Pounds,1887367.87,4344756.089,81,2.302018678
+1405,1405,2012,Lobster American,Bailey Island,Cumberland,Live Pounds,2035393.28,5782418.108,82,2.840934067
+1406,1406,2012,Lobster American,Bar Harbor,Hancock,Live Pounds,1362575.9,3923839.904,40,2.879722079
+1407,1407,2012,Lobster American,Bass Harbor,Hancock,Live Pounds,2880469.21,8163772.057,85,2.83418133
+1408,1408,2012,Lobster American,Beals,Washington,Live Pounds,4619873.65,10818257.78,207,2.341678279
+1409,1409,2012,Lobster American,Belfast,Waldo,Live Pounds,301535.56,763500.226,43,2.53204042
+1410,1410,2012,Lobster American,Biddeford Pool,York,Live Pounds,204565.41,658415.623,24,3.218606816
+1411,1411,2012,Lobster American,Blue Hill,Hancock,Live Pounds,1791497.37,4748711.103,61,2.650693873
+1412,1412,2012,Lobster American,Boothbay Harbor,Lincoln,Live Pounds,1443210.0,4216828.048,118,2.921839544
+1413,1413,2012,Lobster American,Bremen,Lincoln,Live Pounds,1048178.0,2556472.47,57,2.438967876
+1414,1414,2012,Lobster American,Brooklin,Hancock,Live Pounds,252192.89,613872.51,13,2.434138845
+1415,1415,2012,Lobster American,Brooksville,Hancock,Live Pounds,96379.09,264571.953,5,2.745117774
+1416,1416,2012,Lobster American,Bucks Harbor,Washington,Live Pounds,624502.95,1375181.01,40,2.202040855
+1417,1417,2012,Lobster American,Camden,Knox,Live Pounds,11311.72,31743.211,4,2.806223192
+1418,1418,2012,Lobster American,Cape Elizabeth,Cumberland,Live Pounds,111219.11,384533.686,24,3.457442574
+1419,1419,2012,Lobster American,Cape Porpoise,York,Live Pounds,775202.67,2494921.63,47,3.21841207
+1420,1420,2012,Lobster American,Castine,Hancock,Live Pounds,43168.06,113620.603,5,2.632052564
+1421,1421,2012,Lobster American,Cundys Harbor,Cumberland,Live Pounds,2072034.3,5634767.5,114,2.719437366
+1422,1422,2012,Lobster American,Cushing,Knox,Live Pounds,2195160.03,6715548.88,85,3.059252532
+1423,1423,2012,Lobster American,Cutler,Washington,Live Pounds,2440469.0,6237245.8,56,2.555757029
+1424,1424,2012,Lobster American,Deer Isle,Hancock,Live Pounds,1537007.99,4363266.45,50,2.838805314
+1425,1425,2012,Lobster American,Eastport,Washington,Live Pounds,836897.69,2519719.537,40,3.010785628
+1426,1426,2012,Lobster American,Falmouth,Cumberland,Live Pounds,92913.07,298361.377,7,3.211188447
+1427,1427,2012,Lobster American,Five Islands,Sagadahoc,Live Pounds,425374.5,1315479.43,55,3.092520661
+1428,1428,2012,Lobster American,Freeport,Cumberland,Live Pounds,245235.41,722187.015,20,2.9448725
+1429,1429,2012,Lobster American,Frenchboro,Hancock,Live Pounds,235374.05,718770.37,13,3.05373668
+1430,1430,2012,Lobster American,Friendship,Knox,Live Pounds,4666396.35,13316207.88,172,2.853638414
+1431,1431,2012,Lobster American,Georgetown,Sagadahoc,Live Pounds,445272.95,1281338.05,25,2.877646284
+1432,1432,2012,Lobster American,Gouldsboro,Hancock,Live Pounds,543642.54,1119660.87,18,2.059553452
+1433,1433,2012,Lobster American,Gouldsboro,Hancock,Live Pounds,40595.0,111925.3,3,2.757120335
+1434,1434,2012,Lobster American,Hancock,Hancock,Live Pounds,145879.2,388049.645,24,2.66007522
+1435,1435,2012,Lobster American,Harpswell,Cumberland,Live Pounds,2389798.23,7058366.507,122,2.953540771
+1436,1436,2012,Lobster American,Harrington,Washington,Live Pounds,1192602.0,3431405.15,33,2.877242492
+1437,1437,2012,Lobster American,Islesboro,Waldo,Live Pounds,124870.25,339849.38,8,2.721620082
+1438,1438,2012,Lobster American,Jonesport,Washington,Live Pounds,3737602.95,8324645.338,183,2.227268506
+1439,1439,2012,Lobster American,Kennebunk,York,Live Pounds,10828.3,31537.5,5,2.912507042
+1440,1440,2012,Lobster American,Kennebunkport,York,Live Pounds,251437.84,786413.148,23,3.127664269
+1441,1441,2012,Lobster American,Kittery,York,Live Pounds,1428198.88,4773725.408,70,3.342479451
+1442,1442,2012,Lobster American,Lamoine,Hancock,Live Pounds,268314.24,772555.851,17,2.879295005
+1443,1443,2012,Lobster American,Lincolnville,Waldo,Live Pounds,48510.75,138108.5,7,2.846966909
+1444,1444,2012,Lobster American,Lubec,Washington,Live Pounds,421859.71,1262480.308,29,2.992654378
+1445,1445,2012,Lobster American,Matinicus,Knox,Live Pounds,1269704.56,3788364.155,52,2.98365799
+1446,1446,2012,Lobster American,Milbridge,Washington,Live Pounds,2789986.25,7391433.36,88,2.649272325
+1447,1447,2012,Lobster American,Monhegan,Lincoln,Live Pounds,19592.29,72056.815,7,3.677814845
+1448,1448,2012,Lobster American,New Harbor,Lincoln,Live Pounds,1232560.65,3193497.15,49,2.590945241
+1449,1449,2012,Lobster American,North Haven,Knox,Live Pounds,1837.8,7298.7,3,3.971433235
+1450,1450,2012,Lobster American,Northeast Harbor,Hancock,Live Pounds,802447.3,2460245.525,39,3.06592785
+1451,1451,2012,Lobster American,Ogunquit,York,Live Pounds,288876.12,937354.015,13,3.244830397
+1452,1452,2012,Lobster American,Other Hancock,Hancock,Live Pounds,268165.26,753195.334,14,2.80869839
+1453,1453,2012,Lobster American,Other Hancock,Hancock,Live Pounds,99963.3,299306.755,14,2.994166409
+1454,1454,2012,Lobster American,Other Maine,Not-Specified,Live Pounds,11022430.67,29373455.94,465,2.664880081
+1455,1455,2012,Lobster American,Other Sagadahoc,Sagadahoc,Live Pounds,7683.45,23744.94,4,3.090400797
+1456,1456,2012,Lobster American,Other Sagadahoc,Sagadahoc,Live Pounds,65.0,260.0,1,4.0
+1457,1457,2012,Lobster American,Owls Head,Knox,Live Pounds,2413360.58,6901729.235,53,2.859800269
+1458,1458,2012,Lobster American,Phippsburg,Sagadahoc,Live Pounds,48021.91,180177.68,16,3.75198904
+1459,1459,2012,Lobster American,Pine Point,Cumberland,Live Pounds,25762.6,76676.34,4,2.976265594
+1460,1460,2012,Lobster American,Port Clyde,Knox,Live Pounds,3368747.85,8745820.934,126,2.596163715
+1461,1461,2012,Lobster American,Portland,Cumberland,Live Pounds,3524442.56,11005767.87,196,3.122697471
+1462,1462,2012,Lobster American,Prospect Harbor,Hancock,Live Pounds,817131.0,2423551.64,37,2.965927911
+1463,1463,2012,Lobster American,Rockland,Knox,Live Pounds,3483138.19,9728996.411,176,2.793169803
+1464,1464,2012,Lobster American,Rockport,Knox,Live Pounds,575283.52,1543504.978,20,2.683033538
+1465,1465,2012,Lobster American,Round Pond,Lincoln,Live Pounds,473707.8,1219059.65,32,2.573442215
+1466,1466,2012,Lobster American,Saco,York,Live Pounds,56363.3,182452.23,15,3.237075012
+1467,1467,2012,Lobster American,Scarborough,Cumberland,Live Pounds,399675.34,1231414.353,38,3.081036606
+1468,1468,2012,Lobster American,Sorrento,Hancock,Live Pounds,706048.65,1490193.515,39,2.110610246
+1469,1469,2012,Lobster American,South Bristol,Lincoln,Live Pounds,1541863.15,4170544.913,103,2.704873589
+1470,1470,2012,Lobster American,South Thomaston,Knox,Live Pounds,582491.5,1656606.35,29,2.8440009
+1471,1471,2012,Lobster American,Southport,Lincoln,Live Pounds,488758.0,1400693.62,32,2.865822391
+1472,1472,2012,Lobster American,Southwest Harbor,Hancock,Live Pounds,2502609.25,7526209.384,97,3.007344988
+1473,1473,2012,Lobster American,Spruce Head,Knox,Live Pounds,3865569.5,9366284.117,136,2.423002385
+1474,1474,2012,Lobster American,St. George,Knox,Live Pounds,166079.4,520092.76,15,3.131591034
+1475,1475,2012,Lobster American,Steuben,Washington,Live Pounds,2076861.85,5614839.183,87,2.703520787
+1476,1476,2012,Lobster American,Stockton Springs,Waldo,Live Pounds,64721.63,188080.258,8,2.905987658
+1477,1477,2012,Lobster American,Stonington,Hancock,Live Pounds,18594681.8,46545972.22,371,2.503187348
+1478,1478,2012,Lobster American,Sullivan,Hancock,Live Pounds,96025.6,282904.75,9,2.946138842
+1479,1479,2012,Lobster American,Surry,Hancock,Live Pounds,21407.0,57374.9,5,2.680193395
+1480,1480,2012,Lobster American,Swans Island,Hancock,Live Pounds,3035162.2,8121030.085,97,2.675649455
+1481,1481,2012,Lobster American,Tenants Harbor,Knox,Live Pounds,2423105.44,5732646.507,85,2.365826271
+1482,1482,2012,Lobster American,Thomaston,Knox,Live Pounds,12766.0,38433.5,7,3.010614131
+1483,1483,2012,Lobster American,Trenton,Hancock,Live Pounds,106289.3,299484.325,18,2.817633807
+1484,1484,2012,Lobster American,Vinalhaven,Knox,Live Pounds,10119602.45,27431714.35,233,2.710750198
+1485,1485,2012,Lobster American,Wells,York,Live Pounds,22753.0,71963.8,10,3.16282688
+1486,1486,2012,Lobster American,Winter Harbor,Hancock,Live Pounds,1764086.95,4481998.303,42,2.54069013
+1487,1487,2012,Lobster American,Wiscasset,Lincoln,Live Pounds,190366.1,479151.24,15,2.516998772
+1488,1488,2012,Lobster American,York,York,Live Pounds,666308.09,2146906.46,30,3.222092741
+1743,1743,2013,Lobster American,Addison,Washington,Live Pounds,1914946.47,4686346.673,89,2.447246827
+1744,1744,2013,Lobster American,Bailey Island,Cumberland,Live Pounds,1708133.87,5291521.829,75,3.097837893
+1745,1745,2013,Lobster American,Bar Harbor,Hancock,Live Pounds,1698350.68,4982828.567,36,2.933922084
+1746,1746,2013,Lobster American,Bass Harbor,Hancock,Live Pounds,2909819.4,8810716.005,83,3.027925377
+1747,1747,2013,Lobster American,Beals,Washington,Live Pounds,5865174.7,14497891.65,238,2.471860156
+1748,1748,2013,Lobster American,Belfast,Waldo,Live Pounds,339862.5,1013470.76,39,2.98200231
+1749,1749,2013,Lobster American,Biddeford Pool,York,Live Pounds,170454.62,589310.459,19,3.457286514
+1750,1750,2013,Lobster American,Blue Hill,Hancock,Live Pounds,1710358.97,4882852.715,65,2.854870118
+1751,1751,2013,Lobster American,Boothbay Harbor,Lincoln,Live Pounds,1428414.95,4687989.215,110,3.281951939
+1752,1752,2013,Lobster American,Bremen,Lincoln,Live Pounds,905753.2,2400088.43,57,2.649826056
+1753,1753,2013,Lobster American,Brooklin,Hancock,Live Pounds,222376.4,522510.174,15,2.349665585
+1754,1754,2013,Lobster American,Brooksville,Hancock,Live Pounds,8985.44,30771.174,7,3.42455951
+1755,1755,2013,Lobster American,Bucks Harbor,Washington,Live Pounds,769281.05,1778378.65,43,2.311741138
+1756,1756,2013,Lobster American,Camden,Knox,Live Pounds,10033.0,32063.1,5,3.195763979
+1757,1757,2013,Lobster American,Cape Elizabeth,Cumberland,Live Pounds,98612.35,385663.077,19,3.910900379
+1758,1758,2013,Lobster American,Cape Porpoise,York,Live Pounds,777586.15,2793902.24,45,3.593045272
+1759,1759,2013,Lobster American,Castine,Hancock,Live Pounds,55673.25,165810.835,6,2.978285532
+1760,1760,2013,Lobster American,Cundys Harbor,Cumberland,Live Pounds,2077903.65,6140121.9,109,2.95495987
+1761,1761,2013,Lobster American,Cushing,Knox,Live Pounds,1909881.08,6421793.927,84,3.362405123
+1762,1762,2013,Lobster American,Cutler,Washington,Live Pounds,3125481.0,8392108.49,53,2.685061432
+1763,1763,2013,Lobster American,Deer Isle,Hancock,Live Pounds,1173706.6,3660887.538,39,3.119082348
+1764,1764,2013,Lobster American,Eastport,Washington,Live Pounds,1024534.62,3427243.79,37,3.345171284
+1765,1765,2013,Lobster American,Falmouth,Cumberland,Live Pounds,138613.54,543176.683,7,3.91864087
+1766,1766,2013,Lobster American,Five Islands,Sagadahoc,Live Pounds,482674.75,1586739.22,62,3.287388081
+1767,1767,2013,Lobster American,Freeport,Cumberland,Live Pounds,199654.44,631895.624,17,3.164946515
+1768,1768,2013,Lobster American,Frenchboro,Hancock,Live Pounds,232983.6,707949.95,10,3.03862568
+1769,1769,2013,Lobster American,Friendship,Knox,Live Pounds,4515671.83,14415489.59,175,3.19232445
+1770,1770,2013,Lobster American,Georgetown,Sagadahoc,Live Pounds,489820.49,1513839.81,24,3.090601232
+1771,1771,2013,Lobster American,Gouldsboro,Hancock,Live Pounds,569874.5,1148663.526,24,2.015642963
+1772,1772,2013,Lobster American,Gouldsboro,Hancock,Live Pounds,170117.3,536224.855,14,3.152088912
+1773,1773,2013,Lobster American,Hancock,Hancock,Live Pounds,71536.6,207440.27,11,2.899778156
+1774,1774,2013,Lobster American,Harpswell,Cumberland,Live Pounds,2244500.72,7133587.391,109,3.178251327
+1775,1775,2013,Lobster American,Harrington,Washington,Live Pounds,1242374.2,3843292.3,35,3.093506208
+1776,1776,2013,Lobster American,Islesboro,Waldo,Live Pounds,179311.4,525268.15,5,2.929362829
+1777,1777,2013,Lobster American,Jonesport,Washington,Live Pounds,2992562.8,6970790.348,167,2.32937145
+1778,1778,2013,Lobster American,Kennebunkport,York,Live Pounds,319606.06,1095869.379,21,3.428812892
+1779,1779,2013,Lobster American,Kittery,York,Live Pounds,1424892.97,5073361.828,69,3.560521341
+1780,1780,2013,Lobster American,Lamoine,Hancock,Live Pounds,135414.66,400981.855,9,2.961140655
+1781,1781,2013,Lobster American,Lubec,Washington,Live Pounds,546540.13,1823902.788,24,3.337179994
+1782,1782,2013,Lobster American,Milbridge,Washington,Live Pounds,2727967.95,7261467.688,92,2.661859604
+1783,1783,2013,Lobster American,Monhegan,Lincoln,Live Pounds,17573.46,79587.68,5,4.528856583
+1784,1784,2013,Lobster American,New Harbor,Lincoln,Live Pounds,1366762.62,3983729.491,58,2.914719376
+1785,1785,2013,Lobster American,Northeast Harbor,Hancock,Live Pounds,895098.55,3062094.498,36,3.420957947
+1786,1786,2013,Lobster American,Ogunquit,York,Live Pounds,351283.26,1236387.563,15,3.519631317
+1787,1787,2013,Lobster American,Other Hancock,Hancock,Live Pounds,390416.55,1138323.82,12,2.915664871
+1788,1788,2013,Lobster American,Other Hancock,Hancock,Live Pounds,191419.6,560792.16,11,2.929648584
+1789,1789,2013,Lobster American,Other Maine,Not-Specified,Live Pounds,13402071.36,37850687.07,515,2.824241571
+1790,1790,2013,Lobster American,Other Sagadahoc,Sagadahoc,Live Pounds,35140.4,103005.66,3,2.931260316
+1791,1791,2013,Lobster American,Other Washington,Washington,Live Pounds,2846.0,14294.75,5,5.02275123
+1792,1792,2013,Lobster American,Other Washington,Washington,Live Pounds,653.0,2847.2,2,4.360183767
+1793,1793,2013,Lobster American,Other York,York,Live Pounds,63500.5,227753.495,7,3.586640971
+1794,1794,2013,Lobster American,Owls Head,Knox,Live Pounds,2518931.8,7996709.144,50,3.174642975
+1795,1795,2013,Lobster American,Pemaquid,Lincoln,Live Pounds,212237.75,664677.053,25,3.131756971
+1796,1796,2013,Lobster American,Phippsburg,Sagadahoc,Live Pounds,25107.0,78758.41,7,3.136910423
+1797,1797,2013,Lobster American,Pine Point,Cumberland,Live Pounds,16088.3,57835.65,6,3.594888832
+1798,1798,2013,Lobster American,Port Clyde,Knox,Live Pounds,2929080.87,8570302.625,139,2.925935816
+1799,1799,2013,Lobster American,Portland,Cumberland,Live Pounds,3116454.19,10857353.27,198,3.483880272
+1800,1800,2013,Lobster American,Prospect Harbor,Hancock,Live Pounds,794619.17,2367015.095,29,2.978804419
+1801,1801,2013,Lobster American,Rockland,Knox,Live Pounds,3263104.42,10067569.08,156,3.085273342
+1802,1802,2013,Lobster American,Rockport,Knox,Live Pounds,466600.4,1358721.55,18,2.911959677
+1803,1803,2013,Lobster American,Round Pond,Lincoln,Live Pounds,377141.1,999127.475,22,2.649213981
+1804,1804,2013,Lobster American,Saco,York,Live Pounds,57676.82,195733.33,14,3.393622082
+1805,1805,2013,Lobster American,Scarborough,Cumberland,Live Pounds,369876.46,1261692.26,33,3.411118026
+1806,1806,2013,Lobster American,South Bristol,Lincoln,Live Pounds,1328568.5,3938244.35,94,2.964276475
+1807,1807,2013,Lobster American,South Thomaston,Knox,Live Pounds,623735.7,1952843.429,29,3.130882887
+1808,1808,2013,Lobster American,Southwest Harbor,Hancock,Live Pounds,2867534.86,8635232.603,91,3.011378422
+1809,1809,2013,Lobster American,Spruce Head,Knox,Live Pounds,4042857.55,11171145.68,130,2.763180632
+1810,1810,2013,Lobster American,St. George,Knox,Live Pounds,273473.71,920681.516,35,3.366618005
+1811,1811,2013,Lobster American,Steuben,Washington,Live Pounds,2143506.6,5948038.014,79,2.774910053
+1812,1812,2013,Lobster American,Stockton Springs,Waldo,Live Pounds,96677.3,304966.955,13,3.154483576
+1813,1813,2013,Lobster American,Stonington,Hancock,Live Pounds,18215753.6,49589538.08,384,2.722343482
+1814,1814,2013,Lobster American,Sullivan,Hancock,Live Pounds,67758.19,200780.115,8,2.963185926
+1815,1815,2013,Lobster American,Swans Island,Hancock,Live Pounds,2754587.7,7935194.05,99,2.880719336
+1816,1816,2013,Lobster American,Tenants Harbor,Knox,Live Pounds,2275182.61,5767075.104,84,2.534774606
+1817,1817,2013,Lobster American,Trenton,Hancock,Live Pounds,131421.4,389221.613,20,2.961630397
+1818,1818,2013,Lobster American,Vinalhaven,Knox,Live Pounds,10061503.65,29810514.93,240,2.962829013
+1819,1819,2013,Lobster American,Wells,York,Live Pounds,14061.5,48440.5,8,3.444902749
+1820,1820,2013,Lobster American,West Point,Sagadahoc,Live Pounds,604105.0,1879258.8,39,3.110814842
+1821,1821,2013,Lobster American,Winter Harbor,Hancock,Live Pounds,2048084.0,5428930.2,37,2.650736103
+1822,1822,2013,Lobster American,Wiscasset,Lincoln,Live Pounds,122929.0,327296.4,12,2.662483222
+1823,1823,2013,Lobster American,Yarmouth,Cumberland,Live Pounds,8041.7,35968.75,3,4.472779387
+1824,1824,2013,Lobster American,York,York,Live Pounds,675528.33,2351399.621,24,3.480830509
+2098,2098,2014,Lobster American,Addison,Washington,Live Pounds,1739057.5,6136524.075,88,3.528649326
+2099,2099,2014,Lobster American,Bailey Island,Cumberland,Live Pounds,1484102.43,5686003.296,72,3.831274163
+2100,2100,2014,Lobster American,Bar Harbor,Hancock,Live Pounds,1817980.41,7187298.915,48,3.953452345
+2101,2101,2014,Lobster American,Bass Harbor,Hancock,Live Pounds,2552276.7,10062470.75,95,3.942546962
+2102,2102,2014,Lobster American,Beals,Washington,Live Pounds,6290656.0,20981430.81,232,3.335332724
+2103,2103,2014,Lobster American,Belfast,Waldo,Live Pounds,400137.37,1574287.197,40,3.934366833
+2104,2104,2014,Lobster American,Biddeford Pool,York,Live Pounds,167060.34,682530.932,19,4.085535394
+2105,2105,2014,Lobster American,Blue Hill,Hancock,Live Pounds,1480279.34,5553646.709,65,3.751755874
+2106,2106,2014,Lobster American,Boothbay,Lincoln,Live Pounds,16830.85,72555.25,3,4.310848828
+2107,2107,2014,Lobster American,Boothbay Harbor,Lincoln,Live Pounds,1392205.32,5470289.624,96,3.929226204
+2108,2108,2014,Lobster American,Bremen,Lincoln,Live Pounds,845349.38,2883681.386,54,3.411230261
+2109,2109,2014,Lobster American,Brooklin,Hancock,Live Pounds,130865.04,403906.04,8,3.086431945
+2110,2110,2014,Lobster American,Brooksville,Hancock,Live Pounds,7528.63,31891.08,5,4.235973876
+2111,2111,2014,Lobster American,Bucks Harbor,Washington,Live Pounds,655905.22,2068694.825,42,3.153953897
+2112,2112,2014,Lobster American,Bunkers Harbor,Hancock,Live Pounds,781903.0,3169072.62,20,4.053025273
+2113,2113,2014,Lobster American,Camden,Knox,Live Pounds,7868.0,34663.25,4,4.405598627
+2114,2114,2014,Lobster American,Cape Elizabeth,Cumberland,Live Pounds,61685.89,283224.885,23,4.591404696
+2115,2115,2014,Lobster American,Cape Porpoise,York,Live Pounds,836921.06,3520885.345,46,4.206950348
+2116,2116,2014,Lobster American,Chebeague Island,Cumberland,Live Pounds,847670.0,3305759.15,65,3.899818502
+2117,2117,2014,Lobster American,Cundys Harbor,Cumberland,Live Pounds,1943010.27,7275950.078,110,3.744679166
+2118,2118,2014,Lobster American,Cushing,Knox,Live Pounds,1773289.15,7257877.308,84,4.092889932
+2119,2119,2014,Lobster American,Cutler,Washington,Live Pounds,2294774.0,8066486.925,50,3.515155272
+2120,2120,2014,Lobster American,Deer Isle,Hancock,Live Pounds,1007679.9,4101403.755,38,4.070145445
+2121,2121,2014,Lobster American,Eastport,Washington,Live Pounds,908612.56,3869868.225,41,4.259096116
+2122,2122,2014,Lobster American,Falmouth,Cumberland,Live Pounds,118512.91,563508.585,6,4.754828693
+2123,2123,2014,Lobster American,Five Islands,Sagadahoc,Live Pounds,428353.27,1675279.8,59,3.910977031
+2124,2124,2014,Lobster American,Freeport,Cumberland,Live Pounds,261841.3,1051560.08,19,4.016020697
+2125,2125,2014,Lobster American,Frenchboro,Hancock,Live Pounds,143675.0,603078.95,7,4.197521837
+2126,2126,2014,Lobster American,Friendship,Knox,Live Pounds,4351623.9,17239783.34,180,3.961689644
+2127,2127,2014,Lobster American,Georgetown,Sagadahoc,Live Pounds,477669.1,1831150.92,27,3.833513451
+2128,2128,2014,Lobster American,Gouldsboro,Hancock,Live Pounds,230175.5,691631.55,14,3.004800902
+2129,2129,2014,Lobster American,Gouldsboro,Hancock,Live Pounds,505944.8,1557975.145,14,3.079338191
+2130,2130,2014,Lobster American,Hancock,Hancock,Live Pounds,101521.7,384258.52,12,3.784989022
+2131,2131,2014,Lobster American,Harpswell,Cumberland,Live Pounds,2073062.23,8057301.499,111,3.886666489
+2132,2132,2014,Lobster American,Harrington,Washington,Live Pounds,1418447.5,5542785.175,38,3.907642105
+2133,2133,2014,Lobster American,Islesboro,Waldo,Live Pounds,222089.3,848849.321,6,3.822108138
+2134,2134,2014,Lobster American,Jonesport,Washington,Live Pounds,2913038.25,9176646.991,160,3.150197905
+2135,2135,2014,Lobster American,Kennebunk,York,Live Pounds,70128.0,285738.74,3,4.074531428
+2136,2136,2014,Lobster American,Kennebunkport,York,Live Pounds,238347.3,994445.015,20,4.172252067
+2137,2137,2014,Lobster American,Kittery,York,Live Pounds,1505734.5,6262579.03,61,4.159152248
+2138,2138,2014,Lobster American,Lamoine,Hancock,Live Pounds,167372.95,659521.984,9,3.940433529
+2139,2139,2014,Lobster American,Lincolnville,Waldo,Live Pounds,172630.33,690806.638,9,4.001652769
+2140,2140,2014,Lobster American,Lubec,Washington,Live Pounds,539209.15,2282404.744,32,4.232874654
+2141,2141,2014,Lobster American,Milbridge,Washington,Live Pounds,2778353.25,9764635.1,81,3.514540529
+2142,2142,2014,Lobster American,Monhegan,Lincoln,Live Pounds,7020.62,38516.288,5,5.486166179
+2143,2143,2014,Lobster American,New Harbor,Lincoln,Live Pounds,1276894.01,4671205.918,53,3.658256583
+2144,2144,2014,Lobster American,North Haven,Knox,Live Pounds,229580.0,887330.17,19,3.865015115
+2145,2145,2014,Lobster American,Northeast Harbor,Hancock,Live Pounds,1059769.7,4440905.66,37,4.190444075
+2146,2146,2014,Lobster American,Ogunquit,York,Live Pounds,405841.36,1708239.602,14,4.209131376
+2147,2147,2014,Lobster American,Other Hancock,Hancock,Live Pounds,352087.71,1358825.13,21,3.85933701
+2148,2148,2014,Lobster American,Other Hancock,Hancock,Live Pounds,160911.44,613377.862,10,3.811897165
+2149,2149,2014,Lobster American,Other Maine,Not-Specified,Live Pounds,10965326.98,39817413.65,419,3.63121079
+2150,2150,2014,Lobster American,Other York,York,Live Pounds,18318.5,82891.26,7,4.525002593
+2151,2151,2014,Lobster American,Owls Head,Knox,Live Pounds,2421347.14,9511068.233,55,3.928006883
+2152,2152,2014,Lobster American,Pemaquid,Lincoln,Live Pounds,206268.0,793241.19,23,3.845682268
+2153,2153,2014,Lobster American,Phippsburg,Sagadahoc,Live Pounds,17060.0,66893.59,6,3.92107796
+2154,2154,2014,Lobster American,Pine Point,Cumberland,Live Pounds,12741.0,47823.6,3,3.753520132
+2155,2155,2014,Lobster American,Port Clyde,Knox,Live Pounds,2512302.49,9160743.657,109,3.64635377
+2156,2156,2014,Lobster American,Portland,Cumberland,Live Pounds,3564827.75,14761405.47,242,4.140846769
+2157,2157,2014,Lobster American,Prospect Harbor,Hancock,Live Pounds,898971.0,3462278.15,30,3.851379132
+2158,2158,2014,Lobster American,Rockland,Knox,Live Pounds,3495002.36,13619089.21,157,3.896732479
+2159,2159,2014,Lobster American,Rockport,Knox,Live Pounds,354789.75,1377098.36,23,3.881449112
+2160,2160,2014,Lobster American,Round Pond,Lincoln,Live Pounds,277687.0,966389.9,19,3.48014095
+2161,2161,2014,Lobster American,Saco,York,Live Pounds,66060.6,268512.855,12,4.064644508
+2162,2162,2014,Lobster American,Scarborough,Cumberland,Live Pounds,375217.8,1517399.085,34,4.044048776
+2163,2163,2014,Lobster American,Sebasco,Sagadahoc,Live Pounds,31693.58,128518.32,4,4.055026917
+2164,2164,2014,Lobster American,Sorrento,Hancock,Live Pounds,760154.65,2331603.694,39,3.067275447
+2165,2165,2014,Lobster American,South Bristol,Lincoln,Live Pounds,1286183.04,4693881.345,84,3.649466055
+2166,2166,2014,Lobster American,South Thomaston,Knox,Live Pounds,628737.4,2414494.925,27,3.840227931
+2167,2167,2014,Lobster American,Southwest Harbor,Hancock,Live Pounds,2688198.19,10662751.52,99,3.966504985
+2168,2168,2014,Lobster American,Spruce Head,Knox,Live Pounds,4085106.81,14487157.94,158,3.546335167
+2169,2169,2014,Lobster American,St. George,Knox,Live Pounds,413413.65,1728996.982,33,4.182244544
+2170,2170,2014,Lobster American,Steuben,Washington,Live Pounds,2287386.1,8342548.93,78,3.647197528
+2171,2171,2014,Lobster American,Stockton Springs,Waldo,Live Pounds,60702.09,247965.439,9,4.08495719
+2172,2172,2014,Lobster American,Stonington,Hancock,Live Pounds,17327891.04,60882789.73,396,3.513571824
+2173,2173,2014,Lobster American,Sullivan,Hancock,Live Pounds,101020.76,385713.75,6,3.818163217
+2174,2174,2014,Lobster American,Surry,Hancock,Live Pounds,20748.0,80017.8,4,3.856651243
+2175,2175,2014,Lobster American,Swans Island,Hancock,Live Pounds,2685873.2,9681746.718,95,3.604692402
+2176,2176,2014,Lobster American,Tenants Harbor,Knox,Live Pounds,2236397.01,7673806.178,99,3.43132554
+2177,2177,2014,Lobster American,Trenton,Hancock,Live Pounds,122510.55,474696.184,24,3.874737188
+2178,2178,2014,Lobster American,Vinalhaven,Knox,Live Pounds,9628898.51,34851935.54,234,3.619514268
+2179,2179,2014,Lobster American,Wells,York,Live Pounds,12356.87,48533.51,6,3.927654009
+2180,2180,2014,Lobster American,Winter Harbor,Hancock,Live Pounds,2386938.5,8336681.49,37,3.492625172
+2181,2181,2014,Lobster American,Yarmouth,Cumberland,Live Pounds,27651.96,135149.64,8,4.88752479
+2182,2182,2014,Lobster American,York,York,Live Pounds,694657.35,2904404.025,26,4.18105995
+2450,2450,2015,Lobster American,Addison,Washington,Live Pounds,1701322.5,6905848.1,78,4.059105843
+2451,2451,2015,Lobster American,Bailey Island,Cumberland,Live Pounds,1339862.02,5713212.479,69,4.26403047
+2452,2452,2015,Lobster American,Bar Harbor,Hancock,Live Pounds,1312931.75,5800170.501,52,4.417724304
+2453,2453,2015,Lobster American,Bass Harbor,Hancock,Live Pounds,2383210.55,10698012.61,90,4.488907877
+2454,2454,2015,Lobster American,Beals,Washington,Live Pounds,5451439.5,19980191.97,247,3.665122207
+2455,2455,2015,Lobster American,Belfast,Waldo,Live Pounds,334915.1,1380526.928,35,4.12202056
+2456,2456,2015,Lobster American,Biddeford Pool,York,Live Pounds,142643.13,630272.364,20,4.418525897
+2457,2457,2015,Lobster American,Blue Hill,Hancock,Live Pounds,1366171.22,5738645.843,66,4.200531938
+2458,2458,2015,Lobster American,Boothbay Harbor,Lincoln,Live Pounds,1392866.65,6089033.66,109,4.371584071
+2459,2459,2015,Lobster American,Bremen,Lincoln,Live Pounds,805655.35,3148985.34,46,3.908601041
+2460,2460,2015,Lobster American,Brooklin,Hancock,Live Pounds,87000.75,300313.695,9,3.451851794
+2461,2461,2015,Lobster American,Brooksville,Hancock,Live Pounds,6261.75,28513.829,4,4.553651775
+2462,2462,2015,Lobster American,Bucks Harbor,Washington,Live Pounds,616668.7,2145352.09,39,3.478937864
+2463,2463,2015,Lobster American,Camden,Knox,Live Pounds,10067.0,46187.55,4,4.588015298
+2464,2464,2015,Lobster American,Cape Elizabeth,Cumberland,Live Pounds,34379.0,171521.4,22,4.989132901
+2465,2465,2015,Lobster American,Cape Porpoise,York,Live Pounds,755318.15,3447617.115,45,4.564456865
+2466,2466,2015,Lobster American,Chebeague Island,Cumberland,Live Pounds,761531.0,3180161.446,66,4.176010492
+2467,2467,2015,Lobster American,Cundys Harbor,Cumberland,Live Pounds,2091994.4,8792972.557,107,4.203153009
+2468,2468,2015,Lobster American,Cushing,Knox,Live Pounds,1968387.75,9054702.839,74,4.600060552
+2469,2469,2015,Lobster American,Cutler,Washington,Live Pounds,1853683.3,6861531.24,53,3.701566087
+2470,2470,2015,Lobster American,Deer Isle,Hancock,Live Pounds,1334041.1,5925883.285,36,4.44205451
+2471,2471,2015,Lobster American,Eastport,Washington,Live Pounds,837507.56,3801373.033,36,4.538911903
+2472,2472,2015,Lobster American,Falmouth,Cumberland,Live Pounds,96135.1,492734.97,7,5.125442944
+2473,2473,2015,Lobster American,Five Islands,Sagadahoc,Live Pounds,352386.04,1537194.185,60,4.362244841
+2474,2474,2015,Lobster American,Freeport,Cumberland,Live Pounds,325960.67,1488932.233,15,4.56782787
+2475,2475,2015,Lobster American,Frenchboro,Hancock,Live Pounds,137252.5,622053.1,4,4.53218047
+2476,2476,2015,Lobster American,Friendship,Knox,Live Pounds,4766066.0,21243369.8,180,4.457212678
+2477,2477,2015,Lobster American,Georgetown,Sagadahoc,Live Pounds,431881.45,1796655.91,22,4.160067329
+2478,2478,2015,Lobster American,Gouldsboro,Hancock,Live Pounds,140149.0,479299.75,11,3.41992986
+2479,2479,2015,Lobster American,Gouldsboro,Hancock,Live Pounds,456716.0,1538881.15,19,3.369448738
+2480,2480,2015,Lobster American,Hancock,Hancock,Live Pounds,131862.8,556035.065,23,4.216769741
+2481,2481,2015,Lobster American,Harpswell,Cumberland,Live Pounds,2336027.6,10149833.75,111,4.344911742
+2482,2482,2015,Lobster American,Harrington,Washington,Live Pounds,1214874.0,5288211.85,49,4.352889147
+2483,2483,2015,Lobster American,Jonesport,Washington,Live Pounds,2837051.95,9825849.515,186,3.463401336
+2484,2484,2015,Lobster American,Kennebunkport,York,Live Pounds,277270.49,1235430.753,22,4.455687848
+2485,2485,2015,Lobster American,Kittery,York,Live Pounds,1424905.14,6287131.714,62,4.412315976
+2486,2486,2015,Lobster American,Lamoine,Hancock,Live Pounds,149533.02,667397.328,8,4.463210387
+2487,2487,2015,Lobster American,Lincolnville,Waldo,Live Pounds,186196.0,799274.21,10,4.292649735
+2488,2488,2015,Lobster American,Lubec,Washington,Live Pounds,438023.56,2005122.212,33,4.577658362
+2489,2489,2015,Lobster American,Milbridge,Washington,Live Pounds,2716172.5,10586846.0,79,3.897707528
+2490,2490,2015,Lobster American,Monhegan,Lincoln,Live Pounds,42102.25,206574.235,5,4.906489202
+2491,2491,2015,Lobster American,New Harbor,Lincoln,Live Pounds,1243411.35,5176099.131,53,4.162821202
+2492,2492,2015,Lobster American,Northeast Harbor,Hancock,Live Pounds,1145658.1,5395299.115,46,4.709344887
+2493,2493,2015,Lobster American,Ogunquit,York,Live Pounds,419745.99,1912746.265,16,4.55691373
+2494,2494,2015,Lobster American,Other Hancock,Hancock,Live Pounds,461648.53,1952305.615,39,4.228986963
+2495,2495,2015,Lobster American,Other Hancock,Hancock,Live Pounds,156557.65,669027.23,12,4.273360197
+2496,2496,2015,Lobster American,Other Maine,Not-Specified,Live Pounds,11761114.54,48231671.94,478,4.100943986
+2497,2497,2015,Lobster American,Owls Head,Knox,Live Pounds,2289168.84,9950922.627,72,4.346958797
+2498,2498,2015,Lobster American,Pemaquid,Lincoln,Live Pounds,205155.2,891561.185,21,4.345788871
+2499,2499,2015,Lobster American,Phippsburg,Sagadahoc,Live Pounds,12695.19,59216.95,7,4.664518609
+2500,2500,2015,Lobster American,Pine Point,Cumberland,Live Pounds,12655.2,55583.33,4,4.392133668
+2501,2501,2015,Lobster American,Port Clyde,Knox,Live Pounds,2542355.3,10381397.25,104,4.083377823
+2502,2502,2015,Lobster American,Portland,Cumberland,Live Pounds,3759095.53,16625795.28,228,4.422817975
+2503,2503,2015,Lobster American,Prospect Harbor,Hancock,Live Pounds,903155.0,3960491.1,38,4.385173198
+2504,2504,2015,Lobster American,Rockland,Knox,Live Pounds,3091100.07,13333826.99,165,4.313618676
+2505,2505,2015,Lobster American,Rockport,Knox,Live Pounds,649149.05,2745325.043,29,4.229113549
+2506,2506,2015,Lobster American,Round Pond,Lincoln,Live Pounds,310756.46,1229874.51,26,3.957679625
+2507,2507,2015,Lobster American,Saco,York,Live Pounds,71641.7,315701.73,10,4.406675581
+2508,2508,2015,Lobster American,Scarborough,Cumberland,Live Pounds,414710.75,1788126.495,31,4.311743776
+2509,2509,2015,Lobster American,Sedgwick,Hancock,Live Pounds,18324.85,82766.02,5,4.516600136
+2510,2510,2015,Lobster American,Sorrento,Hancock,Live Pounds,919405.29,3120573.013,37,3.394121229
+2511,2511,2015,Lobster American,South Bristol,Lincoln,Live Pounds,1445045.0,5902224.495,78,4.084457228
+2512,2512,2015,Lobster American,South Thomaston,Knox,Live Pounds,485695.0,2084579.75,28,4.291952254
+2513,2513,2015,Lobster American,Southport,Lincoln,Live Pounds,487345.15,2076059.238,43,4.259936183
+2514,2514,2015,Lobster American,Southwest Harbor,Hancock,Live Pounds,2440817.3,10895943.77,108,4.46405545
+2515,2515,2015,Lobster American,Spruce Head,Knox,Live Pounds,4429903.02,16876707.41,135,3.8097239
+2516,2516,2015,Lobster American,St. George,Knox,Live Pounds,394125.7,1853894.21,34,4.70381457
+2517,2517,2015,Lobster American,Steuben,Washington,Live Pounds,2282816.22,9373306.403,77,4.106027599
+2518,2518,2015,Lobster American,Stockton Springs,Waldo,Live Pounds,73061.9,328088.23,10,4.490551573
+2519,2519,2015,Lobster American,Stonington,Hancock,Live Pounds,17349138.25,66473365.56,401,3.831508205
+2520,2520,2015,Lobster American,Sullivan,Hancock,Live Pounds,147765.8,642783.535,25,4.350015599
+2521,2521,2015,Lobster American,Swans Island,Hancock,Live Pounds,2701104.95,10949122.29,99,4.053571591
+2522,2522,2015,Lobster American,Tenants Harbor,Knox,Live Pounds,2544374.94,9719668.91,93,3.820061563
+2523,2523,2015,Lobster American,Vinalhaven,Knox,Live Pounds,9596249.19,39255822.19,222,4.090746438
+2524,2524,2015,Lobster American,Winter Harbor,Hancock,Live Pounds,2168168.3,8414214.005,40,3.880793758
+2525,2525,2015,Lobster American,York,York,Live Pounds,681853.8,3078360.523,23,4.51469292
+2778,2778,2016,Lobster American,Addison,Washington,Live Pounds,2021082.6,8030745.43,84,3.973486997
+2779,2779,2016,Lobster American,Bailey Island,Cumberland,Live Pounds,1613914.55,6702919.439,67,4.153205905
+2780,2780,2016,Lobster American,Bar Harbor,Hancock,Live Pounds,1270383.2,5819351.183,62,4.580784115
+2781,2781,2016,Lobster American,Bass Harbor,Hancock,Live Pounds,2778755.4,12503038.29,107,4.499510209
+2782,2782,2016,Lobster American,Beals,Washington,Live Pounds,6425549.05,22204032.98,256,3.455585322
+2783,2783,2016,Lobster American,Biddeford Pool,York,Live Pounds,173826.86,792955.769,15,4.561756273
+2784,2784,2016,Lobster American,Blue Hill,Hancock,Live Pounds,1567498.91,6459190.438,66,4.12069852
+2785,2785,2016,Lobster American,Boothbay Harbor,Lincoln,Live Pounds,1836109.08,7818656.632,116,4.258274586
+2786,2786,2016,Lobster American,Bremen,Lincoln,Live Pounds,844937.0,3253922.65,56,3.851083158
+2787,2787,2016,Lobster American,Bristol,Lincoln,Live Pounds,20975.0,98549.85,7,4.698443385
+2788,2788,2016,Lobster American,Brooksville,Hancock,Live Pounds,4393.76,20417.533,6,4.646938613
+2789,2789,2016,Lobster American,Bucks Harbor,Washington,Live Pounds,666204.0,2344805.925,33,3.519651526
+2790,2790,2016,Lobster American,Cape Elizabeth,Cumberland,Live Pounds,41589.5,208915.19,18,5.023267652
+2791,2791,2016,Lobster American,Cape Porpoise,York,Live Pounds,947943.39,4239243.285,44,4.472042666
+2792,2792,2016,Lobster American,Chebeague Island,Cumberland,Live Pounds,1040989.0,4416142.752,67,4.242256885
+2793,2793,2016,Lobster American,Corea,Hancock,Live Pounds,2487082.0,9155462.5,45,3.68120653
+2794,2794,2016,Lobster American,Cundys Harbor,Cumberland,Live Pounds,2695698.1,11013034.95,115,4.085411104
+2795,2795,2016,Lobster American,Cushing,Knox,Live Pounds,2300661.5,10505190.95,79,4.566161058
+2796,2796,2016,Lobster American,Cutler,Washington,Live Pounds,1592028.9,5605764.94,60,3.521145213
+2797,2797,2016,Lobster American,Deer Isle,Hancock,Live Pounds,1390773.6,6060778.5,36,4.357846957
+2798,2798,2016,Lobster American,Falmouth,Cumberland,Live Pounds,85771.1,405596.98,5,4.72883034
+2799,2799,2016,Lobster American,Five Islands,Sagadahoc,Live Pounds,385315.65,1681699.428,57,4.364472162
+2800,2800,2016,Lobster American,Freeport,Cumberland,Live Pounds,337627.26,1538046.73,12,4.555457785
+2801,2801,2016,Lobster American,Frenchboro,Hancock,Live Pounds,179905.5,816797.37,6,4.540146744
+2802,2802,2016,Lobster American,Friendship,Knox,Live Pounds,4874498.8,21143510.94,152,4.337576397
+2803,2803,2016,Lobster American,Georgetown,Sagadahoc,Live Pounds,514663.5,2117133.02,24,4.113625738
+2804,2804,2016,Lobster American,Gouldsboro,Hancock,Live Pounds,326903.0,1049054.55,16,3.209069816
+2805,2805,2016,Lobster American,Gouldsboro,Hancock,Live Pounds,413543.4,1364965.445,18,3.300658274
+2806,2806,2016,Lobster American,Hancock,Hancock,Live Pounds,533579.9,2343757.08,31,4.392513811
+2807,2807,2016,Lobster American,Harpswell,Cumberland,Live Pounds,2720646.59,11593961.95,113,4.261472987
+2808,2808,2016,Lobster American,Harrington,Washington,Live Pounds,1299148.4,5832460.49,43,4.489449004
+2809,2809,2016,Lobster American,Islesboro,Waldo,Live Pounds,194456.75,821583.41,5,4.225018725
+2810,2810,2016,Lobster American,Jonesport,Washington,Live Pounds,3347362.2,11198489.53,189,3.345466926
+2811,2811,2016,Lobster American,Kennebunk,York,Live Pounds,39410.1,179487.25,3,4.554346475
+2812,2812,2016,Lobster American,Kennebunkport,York,Live Pounds,261470.53,1160382.125,22,4.437907878
+2813,2813,2016,Lobster American,Kittery,York,Live Pounds,1582358.4,6983335.63,66,4.41324521
+2814,2814,2016,Lobster American,Lamoine,Hancock,Live Pounds,175135.0,777272.352,14,4.438132595
+2815,2815,2016,Lobster American,Machiasport,Washington,Live Pounds,1510569.2,5745038.365,54,3.803227528
+2816,2816,2016,Lobster American,Milbridge,Washington,Live Pounds,3032824.5,11769166.18,88,3.880595854
+2817,2817,2016,Lobster American,Monhegan,Lincoln,Live Pounds,17221.23,94184.665,3,5.469102091
+2818,2818,2016,Lobster American,Mount Desert,Hancock,Live Pounds,16771.8,74131.84,4,4.420028858
+2819,2819,2016,Lobster American,New Harbor,Lincoln,Live Pounds,1251290.08,5080711.921,57,4.060378966
+2820,2820,2016,Lobster American,North Haven,Knox,Live Pounds,402831.0,1689206.12,17,4.193336958
+2821,2821,2016,Lobster American,Northeast Harbor,Hancock,Live Pounds,1154298.6,5409651.645,47,4.686527078
+2822,2822,2016,Lobster American,Ogunquit,York,Live Pounds,444822.91,1970188.884,16,4.429153355
+2823,2823,2016,Lobster American,Other Hancock,Hancock,Live Pounds,751306.52,3186679.262,54,4.241516847
+2824,2824,2016,Lobster American,Other Hancock,Hancock,Live Pounds,175602.46,773821.749,12,4.406668044
+2825,2825,2016,Lobster American,Other Maine,Not-Specified,Live Pounds,10372005.08,44785371.66,479,4.317908766
+2826,2826,2016,Lobster American,Owls Head,Knox,Live Pounds,3313040.94,14130064.08,91,4.264983239
+2827,2827,2016,Lobster American,Pemaquid,Lincoln,Live Pounds,313966.0,1328078.14,25,4.230006243
+2828,2828,2016,Lobster American,Phippsburg,Sagadahoc,Live Pounds,6487.5,28261.64,4,4.356322158
+2829,2829,2016,Lobster American,Pine Point,Cumberland,Live Pounds,3879.02,18638.78,4,4.805022918
+2830,2830,2016,Lobster American,Port Clyde,Knox,Live Pounds,1800862.0,7259398.98,81,4.031068999
+2831,2831,2016,Lobster American,Portland,Cumberland,Live Pounds,4117094.27,18261498.74,224,4.435530873
+2832,2832,2016,Lobster American,Prospect Harbor,Hancock,Live Pounds,1082436.0,4754391.85,32,4.392307582
+2833,2833,2016,Lobster American,Rockland,Knox,Live Pounds,3117730.26,13510531.6,163,4.333451092
+2834,2834,2016,Lobster American,Rockport,Knox,Live Pounds,603362.72,2537322.801,29,4.205302577
+2835,2835,2016,Lobster American,Round Pond,Lincoln,Live Pounds,365737.95,1463293.408,26,4.000934024
+2836,2836,2016,Lobster American,Saco,York,Live Pounds,75331.2,336813.375,9,4.47110062
+2837,2837,2016,Lobster American,Scarborough,Cumberland,Live Pounds,451769.9,2087072.685,34,4.619769234
+2838,2838,2016,Lobster American,Sorrento,Hancock,Live Pounds,785598.0,3374130.55,38,4.29498363
+2839,2839,2016,Lobster American,South Bristol,Lincoln,Live Pounds,1579638.4,6357220.671,79,4.024478432
+2840,2840,2016,Lobster American,South Thomaston,Knox,Live Pounds,1962.0,5799.3,4,2.955810398
+2841,2841,2016,Lobster American,Southport,Lincoln,Live Pounds,562333.0,2368034.45,43,4.211089248
+2842,2842,2016,Lobster American,Southwest Harbor,Hancock,Live Pounds,2465931.14,11221584.31,108,4.550647878
+2843,2843,2016,Lobster American,Spruce Head,Knox,Live Pounds,4441895.0,16617391.75,157,3.741059109
+2844,2844,2016,Lobster American,St. George,Knox,Live Pounds,289435.0,1327378.7,35,4.586102925
+2845,2845,2016,Lobster American,Steuben,Washington,Live Pounds,1937664.05,7887408.933,67,4.07057608
+2846,2846,2016,Lobster American,Stonington,Hancock,Live Pounds,18871858.18,70689586.72,402,3.745767165
+2847,2847,2016,Lobster American,Sullivan,Hancock,Live Pounds,71902.59,313198.495,23,4.355872229
+2848,2848,2016,Lobster American,Swans Island,Hancock,Live Pounds,2727811.1,10826528.55,95,3.968943652
+2849,2849,2016,Lobster American,Tenants Harbor,Knox,Live Pounds,2658131.7,10773797.56,103,4.053146637
+2850,2850,2016,Lobster American,Vinalhaven,Knox,Live Pounds,9754402.34,41987489.98,225,4.304465668
+2851,2851,2016,Lobster American,Wells,York,Live Pounds,53146.38,237206.14,9,4.463260527
+2852,2852,2016,Lobster American,Winter Harbor,Hancock,Live Pounds,2029262.5,7578376.36,41,3.734547088
+2853,2853,2016,Lobster American,York,York,Live Pounds,886370.29,4063705.628,26,4.584659114
+3110,3110,2017,Lobster American,Addison,Washington,Live Pounds,1588285.0,5272760.95,88,3.319782627
+3111,3111,2017,Lobster American,Bailey Island,Cumberland,Live Pounds,1370306.99,5595163.868,68,4.083146265
+3112,3112,2017,Lobster American,Bar Harbor,Hancock,Live Pounds,1025229.0,4205371.539,57,4.10188508
+3113,3113,2017,Lobster American,Bass Harbor,Hancock,Live Pounds,2626283.25,11034120.09,127,4.201420426
+3114,3114,2017,Lobster American,Beals,Washington,Live Pounds,5866582.0,18690126.01,276,3.185862911
+3115,3115,2017,Lobster American,Biddeford Pool,York,Live Pounds,107013.24,485882.351,19,4.540394731
+3116,3116,2017,Lobster American,Blue Hill,Hancock,Live Pounds,1423796.55,5721131.323,71,4.018222493
+3117,3117,2017,Lobster American,Boothbay Harbor,Lincoln,Live Pounds,1605430.1,6992732.146,112,4.355675246
+3118,3118,2017,Lobster American,Bremen,Lincoln,Live Pounds,731870.07,2675359.4,55,3.655511422
+3119,3119,2017,Lobster American,Brooksville,Hancock,Live Pounds,5597.15,33067.489,6,5.907915457
+3120,3120,2017,Lobster American,Bucks Harbor,Washington,Live Pounds,59343.9,211631.415,12,3.566186499
+3121,3121,2017,Lobster American,Cape Elizabeth,Cumberland,Live Pounds,73453.03,344240.613,23,4.686540678
+3122,3122,2017,Lobster American,Cape Porpoise,York,Live Pounds,754864.0,3533241.821,41,4.680633625
+3123,3123,2017,Lobster American,Chebeague Island,Cumberland,Live Pounds,830817.5,3401451.875,66,4.094102345
+3124,3124,2017,Lobster American,Corea,Hancock,Live Pounds,2145687.0,7430064.3,52,3.462790379
+3125,3125,2017,Lobster American,Cundys Harbor,Cumberland,Live Pounds,2285846.86,9354871.15,117,4.092518757
+3126,3126,2017,Lobster American,Cushing,Knox,Live Pounds,2042439.16,9303953.96,78,4.555315107
+3127,3127,2017,Lobster American,Cutler,Washington,Live Pounds,1389191.1,4084842.48,57,2.940446768
+3128,3128,2017,Lobster American,Deer Isle,Hancock,Live Pounds,1224181.1,5040028.005,47,4.117060789
+3129,3129,2017,Lobster American,Eastport,Washington,Live Pounds,916742.01,3860442.963,42,4.211046206
+3130,3130,2017,Lobster American,Falmouth,Cumberland,Live Pounds,54709.6,260057.73,4,4.753420423
+3131,3131,2017,Lobster American,Five Islands,Sagadahoc,Live Pounds,292109.25,1283142.138,60,4.392678897
+3132,3132,2017,Lobster American,Freeport,Cumberland,Live Pounds,284604.0,1315529.87,15,4.622316868
+3133,3133,2017,Lobster American,Frenchboro,Hancock,Live Pounds,159129.0,676061.2,5,4.248510328
+3134,3134,2017,Lobster American,Friendship,Knox,Live Pounds,4288089.1,18975912.14,153,4.425260692
+3135,3135,2017,Lobster American,Georgetown,Sagadahoc,Live Pounds,464764.5,1920891.52,25,4.133042692
+3136,3136,2017,Lobster American,Gouldsboro,Hancock,Live Pounds,233752.5,604994.825,20,2.588185474
+3137,3137,2017,Lobster American,Gouldsboro,Hancock,Live Pounds,404104.7,1138432.13,18,2.817171218
+3138,3138,2017,Lobster American,Hancock,Hancock,Live Pounds,355337.0,1541566.8,31,4.338323338
+3139,3139,2017,Lobster American,Harpswell,Cumberland,Live Pounds,2099976.66,8843692.315,116,4.211328861
+3140,3140,2017,Lobster American,Harrington,Washington,Live Pounds,1321336.0,5425493.55,60,4.106066549
+3141,3141,2017,Lobster American,Islesboro,Waldo,Live Pounds,185872.85,723365.67,8,3.891723132
+3142,3142,2017,Lobster American,Jonesport,Washington,Live Pounds,3129988.7,9176318.215,215,2.931741643
+3143,3143,2017,Lobster American,Kennebunk,York,Live Pounds,12063.0,64014.9,3,5.306714748
+3144,3144,2017,Lobster American,Kennebunkport,York,Live Pounds,296979.02,1321328.761,19,4.44923268
+3145,3145,2017,Lobster American,Kittery,York,Live Pounds,1268342.78,5894099.04,68,4.647086839
+3146,3146,2017,Lobster American,Lamoine,Hancock,Live Pounds,198962.68,841457.769,12,4.229224139
+3147,3147,2017,Lobster American,Machiasport,Washington,Live Pounds,1767171.83,5925222.176,79,3.3529406
+3148,3148,2017,Lobster American,Milbridge,Washington,Live Pounds,2656293.3,9476977.975,91,3.567745314
+3149,3149,2017,Lobster American,New Harbor,Lincoln,Live Pounds,1116139.06,4519165.251,47,4.048926709
+3150,3150,2017,Lobster American,North Haven,Knox,Live Pounds,429098.0,1666792.35,27,3.884409506
+3151,3151,2017,Lobster American,Northeast Harbor,Hancock,Live Pounds,1131052.25,5107828.128,54,4.515996611
+3152,3152,2017,Lobster American,Ogunquit,York,Live Pounds,454094.69,2011114.866,21,4.428844711
+3153,3153,2017,Lobster American,Other Hancock,Hancock,Live Pounds,454926.24,1822111.98,40,4.005291012
+3154,3154,2017,Lobster American,Other Hancock,Hancock,Live Pounds,148573.6,602226.007,7,4.053385036
+3155,3155,2017,Lobster American,Other Maine,Not-Specified,Live Pounds,11961636.59,47797855.67,537,3.995929429
+3156,3156,2017,Lobster American,Pemaquid,Lincoln,Live Pounds,211569.6,931906.23,21,4.40472653
+3157,3157,2017,Lobster American,Port Clyde,Knox,Live Pounds,1548991.85,6159419.563,72,3.976405404
+3158,3158,2017,Lobster American,Portland,Cumberland,Live Pounds,2867654.48,12757392.81,189,4.448720339
+3159,3159,2017,Lobster American,Prospect Harbor,Hancock,Live Pounds,877352.05,3594255.78,31,4.096708704
+3160,3160,2017,Lobster American,Rockland,Knox,Live Pounds,2132747.8,8791776.595,155,4.122276715
+3161,3161,2017,Lobster American,Rockport,Knox,Live Pounds,517882.56,1989259.897,24,3.841140928
+3162,3162,2017,Lobster American,Round Pond,Lincoln,Live Pounds,334543.4,1281859.715,27,3.831669419
+3163,3163,2017,Lobster American,Saco,York,Live Pounds,57462.21,253494.002,9,4.411490648
+3164,3164,2017,Lobster American,Scarborough,Cumberland,Live Pounds,392763.6,1691179.035,33,4.305844623
+3165,3165,2017,Lobster American,Sorrento,Hancock,Live Pounds,730746.0,2929068.65,32,4.008326628
+3166,3166,2017,Lobster American,South Bristol,Lincoln,Live Pounds,1321343.05,5376228.143,80,4.068760299
+3167,3167,2017,Lobster American,Southport,Lincoln,Live Pounds,482335.6,1983399.735,43,4.112074114
+3168,3168,2017,Lobster American,Southwest Harbor,Hancock,Live Pounds,2017147.59,8692421.765,93,4.309264135
+3169,3169,2017,Lobster American,Spruce Head,Knox,Live Pounds,3679987.0,13420715.16,172,3.646946351
+3170,3170,2017,Lobster American,St. George,Knox,Live Pounds,273065.5,1227932.775,47,4.49684334
+3171,3171,2017,Lobster American,Steuben,Washington,Live Pounds,1770682.5,6746134.065,63,3.809906104
+3172,3172,2017,Lobster American,Stonington,Hancock,Live Pounds,15610054.0,57085219.58,413,3.656952089
+3173,3173,2017,Lobster American,Swans Island,Hancock,Live Pounds,2450212.28,9094949.219,108,3.711902554
+3174,3174,2017,Lobster American,Tenants Harbor,Knox,Live Pounds,2051267.7,7878420.975,102,3.840757096
+3175,3175,2017,Lobster American,Vinalhaven,Knox,Live Pounds,8561446.65,36349614.01,229,4.245732701
+3176,3176,2017,Lobster American,Wells,York,Live Pounds,42203.87,193549.081,12,4.586050545
+3177,3177,2017,Lobster American,Westport Island,Lincoln,Live Pounds,86916.99,325220.16,14,3.741732888
+3178,3178,2017,Lobster American,York,York,Live Pounds,721892.05,3556429.745,25,4.926539564
+3428,3428,2018,Lobster American,Addison,Washington,Live Pounds,1403373.0,5103269.65,68,3.636431405
+3429,3429,2018,Lobster American,Bailey Island,Cumberland,Live Pounds,1558182.58,6677176.067,79,4.28523342
+3430,3430,2018,Lobster American,Bar Harbor,Hancock,Live Pounds,1120182.9,4677826.677,76,4.175949014
+3431,3431,2018,Lobster American,Bass Harbor,Hancock,Live Pounds,2459326.4,10574231.45,116,4.299645403
+3432,3432,2018,Lobster American,Beals,Washington,Live Pounds,6955277.4,21700428.13,304,3.119994629
+3433,3433,2018,Lobster American,Biddeford Pool,York,Live Pounds,158313.3,689814.92,15,4.357277121
+3434,3434,2018,Lobster American,Blue Hill,Hancock,Live Pounds,1102903.67,4421359.997,59,4.008836055
+3435,3435,2018,Lobster American,Boothbay,Lincoln,Live Pounds,67190.5,306926.575,12,4.568005522
+3436,3436,2018,Lobster American,Boothbay Harbor,Lincoln,Live Pounds,1761481.8,8049927.595,103,4.56997489
+3437,3437,2018,Lobster American,Bremen,Lincoln,Live Pounds,750990.5,2822042.05,53,3.757759985
+3438,3438,2018,Lobster American,Brooksville,Hancock,Live Pounds,2781.0,12711.991,3,4.571014383
+3439,3439,2018,Lobster American,Bucks Harbor,Washington,Live Pounds,119983.0,494294.35,10,4.119703208
+3440,3440,2018,Lobster American,Cape Elizabeth,Cumberland,Live Pounds,58011.8,304013.9,17,5.240552784
+3441,3441,2018,Lobster American,Cape Porpoise,York,Live Pounds,1052115.9,4931357.66,37,4.687085957
+3442,3442,2018,Lobster American,Chebeague Island,Cumberland,Live Pounds,531960.2,2240990.75,61,4.212703789
+3443,3443,2018,Lobster American,Corea,Hancock,Live Pounds,2295812.0,8165965.6,54,3.556896471
+3444,3444,2018,Lobster American,Cundys Harbor,Cumberland,Live Pounds,2839919.1,12134270.98,108,4.27275234
+3445,3445,2018,Lobster American,Cushing,Knox,Live Pounds,2297701.25,10938798.1,73,4.760757344
+3446,3446,2018,Lobster American,Cutler,Washington,Live Pounds,1410579.5,4315707.275,66,3.059527857
+3447,3447,2018,Lobster American,Deer Isle,Hancock,Live Pounds,870488.0,3696519.626,23,4.246491193
+3448,3448,2018,Lobster American,Eastport,Washington,Live Pounds,939995.16,4273327.823,40,4.546116836
+3449,3449,2018,Lobster American,Falmouth,Cumberland,Live Pounds,62099.0,260202.1,5,4.190117393
+3450,3450,2018,Lobster American,Five Islands,Sagadahoc,Live Pounds,349609.7,1612563.025,56,4.612466488
+3451,3451,2018,Lobster American,Freeport,Cumberland,Live Pounds,454678.7,2219820.89,16,4.882174797
+3452,3452,2018,Lobster American,Frenchboro,Hancock,Live Pounds,153998.0,670850.51,5,4.356228717
+3453,3453,2018,Lobster American,Friendship,Knox,Live Pounds,5026665.0,23594041.49,163,4.693776389
+3454,3454,2018,Lobster American,Georgetown,Sagadahoc,Live Pounds,491651.0,1955136.04,26,3.976674592
+3455,3455,2018,Lobster American,Hancock,Hancock,Live Pounds,379564.8,1520400.52,31,4.005641514
+3456,3456,2018,Lobster American,Harpswell,Cumberland,Live Pounds,2434797.25,10278951.53,115,4.221686849
+3457,3457,2018,Lobster American,Harrington,Washington,Live Pounds,1963718.48,8660663.074,69,4.410338428
+3458,3458,2018,Lobster American,Jonesport,Washington,Live Pounds,3291335.3,9958899.073,200,3.025792928
+3459,3459,2018,Lobster American,Kennebunkport,York,Live Pounds,376113.3,1637647.305,20,4.35413293
+3460,3460,2018,Lobster American,Kittery,York,Live Pounds,1455530.01,6581655.851,64,4.521827654
+3461,3461,2018,Lobster American,Lamoine,Hancock,Live Pounds,430116.25,1813802.113,12,4.217004387
+3462,3462,2018,Lobster American,Little Deer Isle,Hancock,Live Pounds,319827.2,1255408.15,18,3.925270115
+3463,3463,2018,Lobster American,Machiasport,Washington,Live Pounds,1798822.2,5482057.55,71,3.047581662
+3464,3464,2018,Lobster American,Milbridge,Washington,Live Pounds,2843429.81,10006415.6,90,3.519135786
+3465,3465,2018,Lobster American,Mount Desert,Hancock,Live Pounds,115539.7,464919.855,13,4.023897024
+3466,3466,2018,Lobster American,New Harbor,Lincoln,Live Pounds,1367815.4,6020160.317,48,4.401295904
+3467,3467,2018,Lobster American,Northeast Harbor,Hancock,Live Pounds,1602695.77,7046330.023,69,4.396548712
+3468,3468,2018,Lobster American,Ogunquit,York,Live Pounds,570594.85,2531918.188,19,4.43733095
+3469,3469,2018,Lobster American,Other Maine,Not-Specified,Live Pounds,10776478.66,44465014.1,525,4.126117214
+3470,3470,2018,Lobster American,Owls Head,Knox,Live Pounds,2768925.0,11979698.6,72,4.326479988
+3471,3471,2018,Lobster American,Pemaquid,Lincoln,Live Pounds,63909.6,307307.8,17,4.808476348
+3472,3472,2018,Lobster American,Port Clyde,Knox,Live Pounds,1669713.0,6754783.75,70,4.045475929
+3473,3473,2018,Lobster American,Portland,Cumberland,Live Pounds,3986886.75,18325175.05,198,4.596362074
+3474,3474,2018,Lobster American,Prospect Harbor,Hancock,Live Pounds,911749.55,3746205.29,25,4.108809585
+3475,3475,2018,Lobster American,Rockland,Knox,Live Pounds,1808846.89,7859003.996,107,4.344759106
+3476,3476,2018,Lobster American,Rockport,Knox,Live Pounds,577541.12,2315374.023,22,4.009020211
+3477,3477,2018,Lobster American,Round Pond,Lincoln,Live Pounds,347088.4,1336769.68,31,3.851381031
+3478,3478,2018,Lobster American,Saco,York,Live Pounds,304.0,1368.0,4,4.5
+3479,3479,2018,Lobster American,Scarborough,Cumberland,Live Pounds,530024.65,2296018.225,30,4.331908384
+3480,3480,2018,Lobster American,Seal Cove,Hancock,Live Pounds,322712.02,1317527.55,32,4.082672688
+3481,3481,2018,Lobster American,Seal Harbor,Hancock,Live Pounds,66242.7,284404.37,4,4.293369232
+3482,3482,2018,Lobster American,Sorrento,Hancock,Live Pounds,778851.0,3419481.87,25,4.39041854
+3483,3483,2018,Lobster American,South Bristol,Lincoln,Live Pounds,1605394.25,7010663.99,79,4.366942257
+3484,3484,2018,Lobster American,South Gouldsboro,Hancock,Live Pounds,401837.0,1141240.0,15,2.840057038
+3485,3485,2018,Lobster American,South Thomaston,Knox,Live Pounds,29574.0,132026.9,5,4.464289579
+3486,3486,2018,Lobster American,Southport,Lincoln,Live Pounds,607697.5,2610313.925,40,4.295416593
+3487,3487,2018,Lobster American,Southwest Harbor,Hancock,Live Pounds,1837532.2,7961096.62,96,4.332493667
+3488,3488,2018,Lobster American,Spruce Head,Knox,Live Pounds,4036886.47,16274236.84,148,4.031383335
+3489,3489,2018,Lobster American,St. George,Knox,Live Pounds,264323.5,1260933.45,31,4.7704175
+3490,3490,2018,Lobster American,Steuben,Washington,Live Pounds,1675915.0,6514294.875,67,3.887007918
+3491,3491,2018,Lobster American,Stonington,Hancock,Live Pounds,15143775.25,57626699.09,385,3.805306018
+3492,3492,2018,Lobster American,Sullivan,Hancock,Live Pounds,36290.59,146672.15,8,4.041602796
+3493,3493,2018,Lobster American,Swans Island,Hancock,Live Pounds,2202129.22,8406179.902,106,3.817296381
+3494,3494,2018,Lobster American,Tenants Harbor,Knox,Live Pounds,2082851.0,8547988.45,95,4.103984611
+3495,3495,2018,Lobster American,Vinalhaven,Knox,Live Pounds,8916571.0,39205653.38,214,4.396942881
+3496,3496,2018,Lobster American,Wells,York,Live Pounds,70731.2,305980.845,8,4.325967112
+3497,3497,2018,Lobster American,Winter Harbor,Hancock,Live Pounds,1788093.63,6138146.09,41,3.432787851
+3498,3498,2018,Lobster American,Wiscasset,Lincoln,Live Pounds,113816.26,428150.07,10,3.76176541
+3499,3499,2018,Lobster American,Yarmouth,Cumberland,Live Pounds,8134.71,34742.39,4,4.270882429
+3500,3500,2018,Lobster American,York,York,Live Pounds,284645.05,1332893.896,12,4.682652644
+3501,3501,2018,Lobster American,York Harbor,York,Live Pounds,540122.0,2718448.35,9,5.03302652
+3738,3738,2019,Lobster American,Addison,Washington,Live Pounds,992502.0,4264344.4,59,4.296560007
+3739,3739,2019,Lobster American,Bailey Island,Cumberland,Live Pounds,1124883.48,5666011.086,72,5.036975995
+3740,3740,2019,Lobster American,Bar Harbor,Hancock,Live Pounds,1127602.74,5793218.089,46,5.137641018
+3741,3741,2019,Lobster American,Bass Harbor,Hancock,Live Pounds,2518741.3,13138670.48,127,5.216363618
+3742,3742,2019,Lobster American,Beals,Washington,Live Pounds,5993013.0,21618064.99,302,3.607211429
+3743,3743,2019,Lobster American,Belfast,Waldo,Live Pounds,253787.02,1224356.755,37,4.824347419
+3744,3744,2019,Lobster American,Biddeford Pool,York,Live Pounds,124895.2,632536.95,14,5.064541712
+3745,3745,2019,Lobster American,Blue Hill,Hancock,Live Pounds,755180.49,3689414.081,61,4.885473248
+3746,3746,2019,Lobster American,Boothbay,Lincoln,Live Pounds,382058.1,2028600.595,47,5.309665192
+3747,3747,2019,Lobster American,Boothbay Harbor,Lincoln,Live Pounds,1156637.65,6093919.718,82,5.26865066
+3748,3748,2019,Lobster American,Bremen,Lincoln,Live Pounds,625249.85,2899441.04,59,4.637251876
+3749,3749,2019,Lobster American,Brooklin,Hancock,Live Pounds,368043.0,1786331.0,22,4.853593194
+3750,3750,2019,Lobster American,Brooksville,Hancock,Live Pounds,4977.75,26414.8,3,5.306574255
+3751,3751,2019,Lobster American,Bucks Harbor,Washington,Live Pounds,68964.5,328013.0,6,4.756258655
+3752,3752,2019,Lobster American,Cape Elizabeth,Cumberland,Live Pounds,43621.0,235898.9,13,5.407920497
+3753,3753,2019,Lobster American,Cape Porpoise,York,Live Pounds,824806.4,4315567.125,37,5.232218282
+3754,3754,2019,Lobster American,Corea,Hancock,Live Pounds,1931663.0,7856353.1,53,4.067144787
+3755,3755,2019,Lobster American,Cundys Harbor,Cumberland,Live Pounds,2294859.9,11484791.75,113,5.004572066
+3756,3756,2019,Lobster American,Cushing,Knox,Live Pounds,1984287.7,10971989.35,79,5.529434744
+3757,3757,2019,Lobster American,Cutler,Washington,Live Pounds,1233461.0,4561287.495,56,3.697958423
+3758,3758,2019,Lobster American,Eastport,Washington,Live Pounds,774383.59,4044023.122,38,5.222247959
+3759,3759,2019,Lobster American,Falmouth,Cumberland,Live Pounds,57655.0,298685.0,6,5.18055676
+3760,3760,2019,Lobster American,Five Islands,Sagadahoc,Live Pounds,336673.45,1743931.85,54,5.179891227
+3761,3761,2019,Lobster American,Freeport,Cumberland,Live Pounds,300429.3,1625300.01,14,5.409925097
+3762,3762,2019,Lobster American,Frenchboro,Hancock,Live Pounds,132506.0,678764.87,5,5.122521773
+3763,3763,2019,Lobster American,Friendship,Knox,Live Pounds,4974067.95,26621592.21,175,5.352076505
+3764,3764,2019,Lobster American,Gouldsboro,Hancock,Live Pounds,247102.0,889922.85,19,3.601439284
+3765,3765,2019,Lobster American,Gouldsboro,Hancock,Live Pounds,305736.0,1473041.0,17,4.818016197
+3766,3766,2019,Lobster American,Hancock,Hancock,Live Pounds,349943.5,1674398.205,31,4.78476727
+3767,3767,2019,Lobster American,Harpswell,Cumberland,Live Pounds,3226626.24,16353675.32,139,5.068351307
+3768,3768,2019,Lobster American,Harrington,Washington,Live Pounds,1881245.35,9670324.063,67,5.140384301
+3769,3769,2019,Lobster American,Jonesport,Washington,Live Pounds,2929281.8,10324722.66,173,3.524660092
+3770,3770,2019,Lobster American,Kennebunk,York,Live Pounds,7655.0,49064.1,3,6.409418681
+3771,3771,2019,Lobster American,Kennebunkport,York,Live Pounds,265703.76,1328258.883,17,4.999021779
+3772,3772,2019,Lobster American,Kittery,York,Live Pounds,1189364.46,6138493.347,61,5.161154174
+3773,3773,2019,Lobster American,Lamoine,Hancock,Live Pounds,410294.84,2118486.745,11,5.163327779
+3774,3774,2019,Lobster American,Lubec,Washington,Live Pounds,428373.62,2173230.47,29,5.073212655
+3775,3775,2019,Lobster American,Machiasport,Washington,Live Pounds,1578650.5,6180029.785,69,3.914754903
+3776,3776,2019,Lobster American,Milbridge,Washington,Live Pounds,2803828.5,12268862.89,109,4.375753685
+3777,3777,2019,Lobster American,Mount Desert,Hancock,Live Pounds,393700.3,2041320.34,20,5.184960083
+3778,3778,2019,Lobster American,New Harbor,Lincoln,Live Pounds,1139814.1,5801967.033,43,5.090274838
+3779,3779,2019,Lobster American,Ogunquit,York,Live Pounds,491419.6,2567973.075,20,5.225622004
+3780,3780,2019,Lobster American,Other Hancock,Hancock,Live Pounds,220021.49,1101079.147,20,5.004416373
+3781,3781,2019,Lobster American,Other Hancock,Hancock,Live Pounds,33819.38,166128.795,5,4.912236564
+3782,3782,2019,Lobster American,Owls Head,Knox,Live Pounds,2524889.25,12955727.85,72,5.131206389
+3783,3783,2019,Lobster American,Pemaquid,Lincoln,Live Pounds,125606.0,672573.55,11,5.354629158
+3784,3784,2019,Lobster American,Port Clyde,Knox,Live Pounds,1440949.82,7191692.72,69,4.990939046
+3785,3785,2019,Lobster American,Portland,Cumberland,Live Pounds,2817178.33,14974323.52,226,5.315362311
+3786,3786,2019,Lobster American,Prospect Harbor,Hancock,Live Pounds,875684.0,4375038.25,29,4.996138162
+3787,3787,2019,Lobster American,Rockport,Knox,Live Pounds,529002.56,2603915.47,23,4.922311661
+3788,3788,2019,Lobster American,Round Pond,Lincoln,Live Pounds,276880.1,1322713.94,28,4.777208402
+3789,3789,2019,Lobster American,Saco,York,Live Pounds,45792.37,230020.61,10,5.023120882
+3790,3790,2019,Lobster American,Scarborough,Cumberland,Live Pounds,638339.08,3361831.845,38,5.26652989
+3791,3791,2019,Lobster American,Sorrento,Hancock,Live Pounds,577205.0,3019053.2,24,5.230469591
+3792,3792,2019,Lobster American,South Bristol,Lincoln,Live Pounds,1243982.55,6274500.945,89,5.043881801
+3793,3793,2019,Lobster American,Southport,Lincoln,Live Pounds,468297.5,2371132.475,36,5.063303723
+3794,3794,2019,Lobster American,Southwest Harbor,Hancock,Live Pounds,2129083.3,11151956.37,127,5.237914538
+3795,3795,2019,Lobster American,Spruce Head,Knox,Live Pounds,3812299.46,18445244.76,152,4.838351487
+3796,3796,2019,Lobster American,Steuben,Washington,Live Pounds,1578752.2,7183198.225,61,4.549921276
+3797,3797,2019,Lobster American,Stonington,Hancock,Live Pounds,10885563.55,51415857.46,403,4.723306903
+3798,3798,2019,Lobster American,Sullivan,Hancock,Live Pounds,104872.0,502299.05,9,4.789639275
+3799,3799,2019,Lobster American,Swans Island,Hancock,Live Pounds,1942243.93,8715928.45,94,4.487556025
+3800,3800,2019,Lobster American,Tenants Harbor,Knox,Live Pounds,1731667.0,8454712.05,86,4.882412179
+3801,3801,2019,Lobster American,Vinalhaven,Knox,Live Pounds,7605992.6,39191635.07,214,5.15273116
+3802,3802,2019,Lobster American,Wells,York,Live Pounds,109875.97,576110.825,9,5.243283176
+3803,3803,2019,Lobster American,Wiscasset,Lincoln,Live Pounds,86805.79,401583.245,10,4.626226488
+3804,3804,2019,Lobster American,York,York,Live Pounds,654704.82,3551950.441,23,5.425270034
+4039,4039,2020,Lobster American,Addison,Washington,Live Pounds,1195520.64,5095455.864,70,4.262122872
+4040,4040,2020,Lobster American,Bailey Island,Cumberland,Live Pounds,1141768.03,5024406.893,68,4.40054964
+4041,4041,2020,Lobster American,Bar Harbor,Hancock,Live Pounds,1031844.8,4846479.888,44,4.696907799
+4042,4042,2020,Lobster American,Bass Harbor,Hancock,Live Pounds,1933068.9,8841972.2,91,4.574059517
+4043,4043,2020,Lobster American,Beals,Washington,Live Pounds,5684260.3,17651647.09,281,3.105355166
+4044,4044,2020,Lobster American,Bernard,Hancock,Live Pounds,631276.0,2678022.0,44,4.242236359
+4045,4045,2020,Lobster American,Biddeford Pool,York,Live Pounds,153180.8,654295.325,11,4.271392531
+4046,4046,2020,Lobster American,Blue Hill,Hancock,Live Pounds,793635.65,3149131.836,60,3.967981826
+4047,4047,2020,Lobster American,Boothbay,Lincoln,Live Pounds,383177.1,1751437.465,39,4.570830211
+4048,4048,2020,Lobster American,Boothbay Harbor,Lincoln,Live Pounds,1279146.17,5747716.602,62,4.493400939
+4049,4049,2020,Lobster American,Bremen,Lincoln,Live Pounds,564724.0,2223946.79,51,3.93811276
+4050,4050,2020,Lobster American,Bucks Harbor,Washington,Live Pounds,77566.84,289030.62,9,3.726213676
+4051,4051,2020,Lobster American,Cape Elizabeth,Cumberland,Live Pounds,50006.0,232019.25,12,4.639828221
+4052,4052,2020,Lobster American,Cape Porpoise,York,Live Pounds,823470.1,3773330.295,39,4.582231091
+4053,4053,2020,Lobster American,Corea,Hancock,Live Pounds,2020096.5,8423202.65,52,4.169703106
+4054,4054,2020,Lobster American,Cundys Harbor,Cumberland,Live Pounds,2206451.5,9579935.455,104,4.341783835
+4055,4055,2020,Lobster American,Cushing,Knox,Live Pounds,1833566.6,8753265.9,65,4.773901259
+4056,4056,2020,Lobster American,Cutler,Washington,Live Pounds,1151198.5,3603337.445,45,3.130074826
+4057,4057,2020,Lobster American,Eastport,Washington,Live Pounds,755051.6,3675624.18,41,4.868043694
+4058,4058,2020,Lobster American,Five Islands,Sagadahoc,Live Pounds,369866.94,1678498.59,56,4.53811468
+4059,4059,2020,Lobster American,Freeport,Cumberland,Live Pounds,223481.81,1065381.09,11,4.76719376
+4060,4060,2020,Lobster American,Frenchboro,Hancock,Live Pounds,165834.99,731186.3,9,4.409119571
+4061,4061,2020,Lobster American,Friendship,Knox,Live Pounds,4117244.7,19112713.17,159,4.64211252
+4062,4062,2020,Lobster American,Gouldsboro,Hancock,Live Pounds,209000.0,845434.05,15,4.045138995
+4063,4063,2020,Lobster American,Gouldsboro,Hancock,Live Pounds,363751.0,1549531.35,15,4.259868289
+4064,4064,2020,Lobster American,Hancock,Hancock,Live Pounds,396839.0,1689224.4,27,4.256699568
+4065,4065,2020,Lobster American,Harpswell,Cumberland,Live Pounds,2683622.38,11864595.91,122,4.421112299
+4066,4066,2020,Lobster American,Harrington,Washington,Live Pounds,2179263.01,10157404.38,57,4.660935524
+4067,4067,2020,Lobster American,Jonesport,Washington,Live Pounds,2135527.6,6865855.752,142,3.215062991
+4068,4068,2020,Lobster American,Kittery,York,Live Pounds,1106241.02,4827867.744,54,4.364209658
+4069,4069,2020,Lobster American,Lamoine,Hancock,Live Pounds,365466.2,1691940.88,12,4.629541337
+4070,4070,2020,Lobster American,Lubec,Washington,Live Pounds,354326.72,1645830.661,25,4.644952153
+4071,4071,2020,Lobster American,Machiasport,Washington,Live Pounds,1682902.66,5682086.83,66,3.376360954
+4072,4072,2020,Lobster American,Matinicus,Knox,Live Pounds,1013081.57,4317682.991,51,4.261930252
+4073,4073,2020,Lobster American,Milbridge,Washington,Live Pounds,2397205.15,10069956.55,92,4.20070704
+4074,4074,2020,Lobster American,Mount Desert,Hancock,Live Pounds,227473.2,1101328.875,10,4.841576392
+4075,4075,2020,Lobster American,New Harbor,Lincoln,Live Pounds,957839.01,4172444.485,46,4.35610206
+4076,4076,2020,Lobster American,North Haven,Knox,Live Pounds,328697.0,1389418.803,24,4.227050454
+4077,4077,2020,Lobster American,Northeast Harbor,Hancock,Live Pounds,45570.6,217296.26,18,4.768343186
+4078,4078,2020,Lobster American,Ogunquit,York,Live Pounds,502357.3,2244682.345,20,4.46829845
+4079,4079,2020,Lobster American,Ogunquit,York,Live Pounds,191.0,620.75,1,3.25
+4080,4080,2020,Lobster American,Other Hancock,Hancock,Live Pounds,307483.4,1383937.755,26,4.500853558
+4081,4081,2020,Lobster American,Other Hancock,Hancock,Live Pounds,25762.29,109627.195,5,4.255335803
+4082,4082,2020,Lobster American,Other Maine,Not-Specified,Live Pounds,12318095.12,53063487.41,625,4.307767304
+4083,4083,2020,Lobster American,Phippsburg,Sagadahoc,Live Pounds,121691.0,490158.92,13,4.027897872
+4084,4084,2020,Lobster American,Port Clyde,Knox,Live Pounds,1368037.0,5809401.175,63,4.246523431
+4085,4085,2020,Lobster American,Portland,Cumberland,Live Pounds,2510389.97,11757568.77,176,4.683562678
+4086,4086,2020,Lobster American,Prospect Harbor,Hancock,Live Pounds,877834.0,4010434.55,39,4.568556868
+4087,4087,2020,Lobster American,Rockport,Knox,Live Pounds,554381.64,2346397.051,23,4.232458079
+4088,4088,2020,Lobster American,Round Pond,Lincoln,Live Pounds,274215.0,1064719.35,24,3.882790329
+4089,4089,2020,Lobster American,Saco,York,Live Pounds,56506.62,253306.875,11,4.482782283
+4090,4090,2020,Lobster American,Scarborough,Cumberland,Live Pounds,607282.56,2807894.241,27,4.623703077
+4091,4091,2020,Lobster American,Sorrento,Hancock,Live Pounds,589283.8,2726452.14,17,4.626721692
+4092,4092,2020,Lobster American,South Bristol,Lincoln,Live Pounds,1217376.0,5144184.59,85,4.225633321
+4093,4093,2020,Lobster American,Southport,Lincoln,Live Pounds,457108.25,1916723.888,32,4.19315094
+4094,4094,2020,Lobster American,Southwest Harbor,Hancock,Live Pounds,2538315.5,11708062.14,121,4.612532264
+4095,4095,2020,Lobster American,Spruce Head,Knox,Live Pounds,3968133.86,16533560.83,150,4.16658344
+4096,4096,2020,Lobster American,Steuben,Washington,Live Pounds,1625917.8,7047055.35,63,4.334201489
+4097,4097,2020,Lobster American,Stonington,Hancock,Live Pounds,11202565.05,43659183.49,385,3.897248826
+4098,4098,2020,Lobster American,Sullivan,Hancock,Live Pounds,125145.0,522188.3,7,4.172666107
+4099,4099,2020,Lobster American,Swans Island,Hancock,Live Pounds,1831771.21,7709380.566,86,4.20870277
+4100,4100,2020,Lobster American,Tenants Harbor,Knox,Live Pounds,1692396.0,7059463.2,80,4.171283317
+4101,4101,2020,Lobster American,Vinalhaven,Knox,Live Pounds,7472659.5,33440683.93,209,4.475071282
+4102,4102,2020,Lobster American,York,York,Live Pounds,676558.12,3146685.215,23,4.651019804
+4360,4360,2021,Lobster American,Addison,Washington,Live Pounds,1472362.81,9306710.386,83,6.320935521
+4361,4361,2021,Lobster American,Bailey Island,Cumberland,Live Pounds,1546676.72,10460709.81,69,6.763346002
+4362,4362,2021,Lobster American,Bar Harbor,Hancock,Live Pounds,1007233.1,7433571.721,42,7.380190068
+4363,4363,2021,Lobster American,Bass Harbor,Hancock,Live Pounds,1784345.0,13124593.82,76,7.35541267
+4364,4364,2021,Lobster American,Beals,Washington,Live Pounds,6030283.5,33293964.45,290,5.521127564
+4365,4365,2021,Lobster American,Belfast,Waldo,Live Pounds,154020.0,1044928.03,36,6.784365862
+4366,4366,2021,Lobster American,Bernard,Hancock,Live Pounds,801324.1,5804213.29,44,7.243278082
+4367,4367,2021,Lobster American,Biddeford Pool,York,Live Pounds,160118.3,1107322.045,16,6.915649523
+4368,4368,2021,Lobster American,Blue Hill,Hancock,Live Pounds,729025.61,5194819.642,59,7.125702542
+4369,4369,2021,Lobster American,Boothbay,Lincoln,Live Pounds,445659.7,3093536.27,38,6.941476355
+4370,4370,2021,Lobster American,Boothbay Harbor,Lincoln,Live Pounds,1647716.3,11267026.72,59,6.837965201
+4371,4371,2021,Lobster American,Bremen,Lincoln,Live Pounds,575330.0,3778753.4,57,6.567975597
+4372,4372,2021,Lobster American,Bucks Harbor,Washington,Live Pounds,74759.0,514791.96,6,6.886019877
+4373,4373,2021,Lobster American,Cape Elizabeth,Cumberland,Live Pounds,47252.0,352300.0,11,7.455769068
+4374,4374,2021,Lobster American,Cape Porpoise,York,Live Pounds,1071257.27,7313699.571,36,6.827211143
+4375,4375,2021,Lobster American,Chebeague Island,Cumberland,Live Pounds,943052.5,6634057.825,63,7.034664374
+4376,4376,2021,Lobster American,Corea,Hancock,Live Pounds,1982973.4,12901658.69,51,6.506218737
+4377,4377,2021,Lobster American,Cundys Harbor,Cumberland,Live Pounds,2909662.5,19258382.59,102,6.618768531
+4378,4378,2021,Lobster American,Cushing,Knox,Live Pounds,2064435.1,14577396.8,61,7.061203716
+4379,4379,2021,Lobster American,Cutler,Washington,Live Pounds,1148784.5,6104645.595,48,5.314004145
+4380,4380,2021,Lobster American,Deer Isle,Hancock,Live Pounds,744283.0,5215914.65,19,7.007972304
+4381,4381,2021,Lobster American,Ellsworth,Hancock,Live Pounds,30292.0,224660.85,3,7.416507659
+4382,4382,2021,Lobster American,Falmouth,Cumberland,Live Pounds,109419.0,769777.1,6,7.035131924
+4383,4383,2021,Lobster American,Five Islands,Sagadahoc,Live Pounds,466128.84,3206687.955,50,6.879402603
+4384,4384,2021,Lobster American,Freeport,Cumberland,Live Pounds,241584.25,1692284.21,11,7.004944279
+4385,4385,2021,Lobster American,Frenchboro,Hancock,Live Pounds,180718.99,1281510.08,6,7.091175532
+4386,4386,2021,Lobster American,Friendship,Knox,Live Pounds,5806323.65,39807576.52,176,6.85590038
+4387,4387,2021,Lobster American,Georgetown,Sagadahoc,Live Pounds,335700.0,2272782.15,24,6.77027748
+4388,4388,2021,Lobster American,Gouldsboro,Hancock,Live Pounds,331880.0,2357658.9,16,7.103949922
+4389,4389,2021,Lobster American,Gouldsboro,Hancock,Live Pounds,353097.0,2478263.5,16,7.01864785
+4390,4390,2021,Lobster American,Hancock,Hancock,Live Pounds,416868.0,2913625.35,27,6.989323599
+4391,4391,2021,Lobster American,Harpswell,Cumberland,Live Pounds,3434243.41,23242699.03,132,6.767924185
+4392,4392,2021,Lobster American,Harrington,Washington,Live Pounds,2221483.5,15362198.55,57,6.915288162
+4393,4393,2021,Lobster American,Jonesport,Washington,Live Pounds,2120382.65,12267243.09,121,5.785391184
+4394,4394,2021,Lobster American,Kittery,York,Live Pounds,1342966.4,9124701.476,57,6.794437654
+4395,4395,2021,Lobster American,Lamoine,Hancock,Live Pounds,46040.8,342921.11,6,7.448200509
+4396,4396,2021,Lobster American,Long Island,Cumberland,Live Pounds,144945.98,1008344.7,14,6.956693107
+4397,4397,2021,Lobster American,Machiasport,Washington,Live Pounds,1578649.4,9021420.29,63,5.714644613
+4398,4398,2021,Lobster American,Matinicus,Knox,Live Pounds,1132712.0,8028881.694,61,7.088193375
+4399,4399,2021,Lobster American,Milbridge,Washington,Live Pounds,2602577.5,17166097.17,96,6.595806338
+4400,4400,2021,Lobster American,Monhegan,Lincoln,Live Pounds,3280.28,27911.96,3,8.509017523
+4401,4401,2021,Lobster American,New Harbor,Lincoln,Live Pounds,1211915.09,7894008.898,45,6.513664994
+4402,4402,2021,Lobster American,Northeast Harbor,Hancock,Live Pounds,153594.45,1158243.81,10,7.540922279
+4403,4403,2021,Lobster American,Ogunquit,York,Live Pounds,683088.2,4669323.93,19,6.83560912
+4404,4404,2021,Lobster American,Other Hancock,Hancock,Live Pounds,477450.1,3499289.345,25,7.329120561
+4405,4405,2021,Lobster American,Other Hancock,Hancock,Live Pounds,16993.91,129205.406,4,7.603041678
+4406,4406,2021,Lobster American,Other Maine,Not-Specified,Live Pounds,10188969.57,71094091.84,498,6.977554634
+4407,4407,2021,Lobster American,Owls Head,Knox,Live Pounds,2168727.65,15203689.8,79,7.010419128
+4408,4408,2021,Lobster American,Pemaquid,Lincoln,Live Pounds,124285.0,854694.68,7,6.87689327
+4409,4409,2021,Lobster American,Phippsburg,Sagadahoc,Live Pounds,108405.85,750554.99,16,6.92356538
+4410,4410,2021,Lobster American,Port Clyde,Knox,Live Pounds,1804022.0,11878622.65,60,6.584522057
+4411,4411,2021,Lobster American,Portland,Cumberland,Live Pounds,3670456.2,25607718.65,165,6.976712772
+4412,4412,2021,Lobster American,Prospect Harbor,Hancock,Live Pounds,1174447.0,8096353.35,32,6.893757956
+4413,4413,2021,Lobster American,Rockport,Knox,Live Pounds,480627.28,3408797.33,22,7.092392529
+4414,4414,2021,Lobster American,Round Pond,Lincoln,Live Pounds,244179.0,1613541.35,29,6.608026694
+4415,4415,2021,Lobster American,Scarborough,Cumberland,Live Pounds,652252.9,4608487.789,30,7.065492218
+4416,4416,2021,Lobster American,Sorrento,Hancock,Live Pounds,575163.0,4067444.35,17,7.071811556
+4417,4417,2021,Lobster American,South Bristol,Lincoln,Live Pounds,1564780.0,10284414.93,87,6.572435058
+4418,4418,2021,Lobster American,Southport,Lincoln,Live Pounds,498776.0,3340813.1,23,6.69802296
+4419,4419,2021,Lobster American,Southwest Harbor,Hancock,Live Pounds,2806977.55,20795869.88,113,7.408634202
+4420,4420,2021,Lobster American,Spruce Head,Knox,Live Pounds,4560057.2,30702721.4,165,6.732968481
+4421,4421,2021,Lobster American,St. George,Knox,Live Pounds,144206.0,1041959.05,11,7.225490271
+4422,4422,2021,Lobster American,Steuben,Washington,Live Pounds,2206382.85,14607679.31,82,6.620645782
+4423,4423,2021,Lobster American,Stonington,Hancock,Live Pounds,11738298.45,76166259.83,379,6.48869682
+4424,4424,2021,Lobster American,Sullivan,Hancock,Live Pounds,129769.0,924375.25,5,7.123236289
+4425,4425,2021,Lobster American,Tenants Harbor,Knox,Live Pounds,2047624.0,13716115.65,103,6.698551907
+4426,4426,2021,Lobster American,Trenton,Hancock,Live Pounds,178316.8,1322726.58,17,7.417846103
+4427,4427,2021,Lobster American,Vinalhaven,Knox,Live Pounds,7839728.8,55372980.02,207,7.063124431
+4428,4428,2021,Lobster American,Wells,York,Live Pounds,131455.84,889005.275,8,6.762767443
+4429,4429,2021,Lobster American,Westport Island,Lincoln,Live Pounds,120324.24,785784.738,10,6.530560575
+4430,4430,2021,Lobster American,Winter Harbor,Hancock,Live Pounds,1669465.45,10620707.33,42,6.361741317
+4431,4431,2021,Lobster American,York,York,Live Pounds,968354.85,6682328.6,21,6.900702361
+4686,4686,2022,Lobster American,Addison,Washington,Live Pounds,1299231.29,4474798.95,71,3.444189641
+4687,4687,2022,Lobster American,Bailey Island,Cumberland,Live Pounds,1312337.8,5655449.93,60,4.309446798
+4688,4688,2022,Lobster American,Bar Harbor,Hancock,Live Pounds,1049877.29,4655605.073,43,4.43442783
+4689,4689,2022,Lobster American,Bass Harbor,Hancock,Live Pounds,1518923.3,6649382.8,70,4.377694911
+4690,4690,2022,Lobster American,Beals,Washington,Live Pounds,5477192.0,12156267.18,268,2.219434188
+4691,4691,2022,Lobster American,Bernard,Hancock,Live Pounds,914278.0,3680469.75,41,4.025547755
+4692,4692,2022,Lobster American,Biddeford Pool,York,Live Pounds,156404.2,709925.889,12,4.539046196
+4693,4693,2022,Lobster American,Blue Hill,Hancock,Live Pounds,676727.18,2612286.698,48,3.860177004
+4694,4694,2022,Lobster American,Boothbay,Lincoln,Live Pounds,354262.5,1692197.85,44,4.776677887
+4695,4695,2022,Lobster American,Boothbay Harbor,Lincoln,Live Pounds,1431961.5,6618007.275,68,4.621637715
+4696,4696,2022,Lobster American,Cape Elizabeth,Cumberland,Live Pounds,46013.5,246688.0,12,5.36120921
+4697,4697,2022,Lobster American,Cape Porpoise,York,Live Pounds,1031321.25,4776326.985,37,4.631269825
+4698,4698,2022,Lobster American,Corea,Hancock,Live Pounds,1888145.0,7512688.15,51,3.978872465
+4699,4699,2022,Lobster American,Cundys Harbor,Cumberland,Live Pounds,2498095.0,10482974.3,103,4.196387367
+4700,4700,2022,Lobster American,Cushing,Knox,Live Pounds,1468899.75,6925487.883,62,4.714745089
+4701,4701,2022,Lobster American,Cutler,Washington,Live Pounds,1104337.7,2527510.3,48,2.288711415
+4702,4702,2022,Lobster American,Deer Isle,Hancock,Live Pounds,558344.0,2343200.6,17,4.196697018
+4703,4703,2022,Lobster American,Eastport,Washington,Live Pounds,640962.3,2551256.66,32,3.980353696
+4704,4704,2022,Lobster American,Ellsworth,Hancock,Live Pounds,21429.0,93096.35,3,4.344409445
+4705,4705,2022,Lobster American,Freeport,Cumberland,Live Pounds,197995.81,829466.98,11,4.189315824
+4706,4706,2022,Lobster American,Frenchboro,Hancock,Live Pounds,192007.0,823758.6,10,4.29025296
+4707,4707,2022,Lobster American,Friendship,Knox,Live Pounds,5080457.15,22796098.55,170,4.487017187
+4708,4708,2022,Lobster American,Georgetown,Sagadahoc,Live Pounds,352137.5,1451048.95,26,4.120688509
+4709,4709,2022,Lobster American,Gouldsboro,Hancock,Live Pounds,273947.0,1081135.2,13,3.946512282
+4710,4710,2022,Lobster American,Gouldsboro,Hancock,Live Pounds,127622.0,564620.35,15,4.424161587
+4711,4711,2022,Lobster American,Hancock,Hancock,Live Pounds,419393.0,1604807.08,19,3.826499441
+4712,4712,2022,Lobster American,Harpswell,Cumberland,Live Pounds,3104299.44,13363685.62,122,4.3048958
+4713,4713,2022,Lobster American,Harrington,Washington,Live Pounds,2216056.15,8990756.21,58,4.057097655
+4714,4714,2022,Lobster American,Jonesport,Washington,Live Pounds,1625044.7,4180897.339,128,2.572789129
+4715,4715,2022,Lobster American,Kittery,York,Live Pounds,1023910.43,4387854.931,60,4.285389427
+4716,4716,2022,Lobster American,Lamoine,Hancock,Live Pounds,38385.84,160777.82,7,4.188466893
+4717,4717,2022,Lobster American,Lubec,Washington,Live Pounds,206767.8,810793.838,18,3.921277094
+4718,4718,2022,Lobster American,Machiasport,Washington,Live Pounds,1388903.25,2667213.548,62,1.920373898
+4719,4719,2022,Lobster American,Milbridge,Washington,Live Pounds,2586655.8,8938364.199,100,3.455567687
+4720,4720,2022,Lobster American,Mount Desert,Hancock,Live Pounds,145362.0,557032.65,10,3.832037603
+4721,4721,2022,Lobster American,New Harbor,Lincoln,Live Pounds,1074121.7,4505380.936,40,4.19447902
+4722,4722,2022,Lobster American,Northeast Harbor,Hancock,Live Pounds,96757.51,483051.035,7,4.992388033
+4723,4723,2022,Lobster American,Ogunquit,York,Live Pounds,655203.0,2836195.6,18,4.328728043
+4724,4724,2022,Lobster American,Other Hancock,Hancock,Live Pounds,379493.0,1534191.075,26,4.042738799
+4725,4725,2022,Lobster American,Other Hancock,Hancock,Live Pounds,25583.56,103512.845,6,4.046068843
+4726,4726,2022,Lobster American,Other Maine,Not-Specified,Live Pounds,10147932.84,41491516.68,655,4.088666858
+4727,4727,2022,Lobster American,Other Washington,Washington,Live Pounds,425.0,1936.125,2,4.555588235
+4728,4728,2022,Lobster American,Other Washington,Washington,Live Pounds,256.0,746.0,2,2.9140625
+4729,4729,2022,Lobster American,Owls Head,Knox,Live Pounds,1838948.0,7560241.319,69,4.111177325
+4730,4730,2022,Lobster American,Pemaquid,Lincoln,Live Pounds,142735.0,624816.55,8,4.377458577
+4731,4731,2022,Lobster American,Phippsburg,Sagadahoc,Live Pounds,108629.0,415455.36,13,3.824534517
+4732,4732,2022,Lobster American,Port Clyde,Knox,Live Pounds,1676355.0,6610714.7,60,3.943505224
+4733,4733,2022,Lobster American,Portland,Cumberland,Live Pounds,2639417.28,12184221.34,163,4.616254289
+4734,4734,2022,Lobster American,Prospect Harbor,Hancock,Live Pounds,1149693.75,4655738.748,33,4.049546888
+4735,4735,2022,Lobster American,Rockport,Knox,Live Pounds,337663.88,1289991.13,22,3.820340896
+4736,4736,2022,Lobster American,Round Pond,Lincoln,Live Pounds,204361.1,759329.05,30,3.715624206
+4737,4737,2022,Lobster American,Saco,York,Live Pounds,80720.55,355490.773,7,4.403968667
+4738,4738,2022,Lobster American,Scarborough,Cumberland,Live Pounds,483072.13,2087109.87,29,4.320493236
+4739,4739,2022,Lobster American,Sorrento,Hancock,Live Pounds,484228.0,2018493.65,12,4.168477763
+4740,4740,2022,Lobster American,South Bristol,Lincoln,Live Pounds,1463006.5,6331465.74,81,4.327708551
+4741,4741,2022,Lobster American,Southport,Lincoln,Live Pounds,494987.0,2182993.45,24,4.410203601
+4742,4742,2022,Lobster American,Southwest Harbor,Hancock,Live Pounds,2586651.14,11231141.13,109,4.341962067
+4743,4743,2022,Lobster American,Spruce Head,Knox,Live Pounds,4421821.0,17527834.16,154,3.963940232
+4744,4744,2022,Lobster American,St. George,Knox,Live Pounds,86934.0,355650.9,13,4.091044931
+4745,4745,2022,Lobster American,Steuben,Washington,Live Pounds,1886349.17,6542144.463,80,3.468151373
+4746,4746,2022,Lobster American,Stonington,Hancock,Live Pounds,10991606.05,44990292.71,370,4.093150037
+4747,4747,2022,Lobster American,Sullivan,Hancock,Live Pounds,124538.0,496891.9,8,3.989881803
+4748,4748,2022,Lobster American,Tenants Harbor,Knox,Live Pounds,1999293.0,7852877.75,80,3.927827362
+4749,4749,2022,Lobster American,Trenton,Hancock,Live Pounds,223031.45,956870.784,17,4.29029531
+4750,4750,2022,Lobster American,Vinalhaven,Knox,Live Pounds,6960663.7,30236179.89,188,4.343864492
+4751,4751,2022,Lobster American,Wells,York,Live Pounds,24907.0,115699.4,6,4.645256354
+4752,4752,2022,Lobster American,Winter Harbor,Hancock,Live Pounds,1818154.05,6541451.45,57,3.597853246
+4753,4753,2022,Lobster American,York,York,Live Pounds,940215.45,4266021.051,25,4.537280313
