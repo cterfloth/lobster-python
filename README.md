@@ -9,3 +9,6 @@ https://mainedmr.shinyapps.io/Landings_Portal/
 
 ## Tools
 Analysis was conducted using Jupiter notebooks, Anaconda libraries manager, and Python (with pandas, NumPy, os, matplotlib, scipy, seaborn, folium, and sklearn libraries).
+
+## Visualizations
+Project dashboard is available on Tableau Public via this link. 
