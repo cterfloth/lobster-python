@@ -9,7 +9,7 @@ https://mainedmr.shinyapps.io/Landings_Portal/).
 
 Maine county map GeoJSON file is from the geographical repository maintained by [OpenDataSoft](https://public.opendatasoft.com/explore/dataset/georef-united-states-of-america-county/information/?disjunctive.ste_code&disjunctive.ste_name&disjunctive.coty_code&disjunctive.coty_name&sort=year). 
 
-Lobster producer price index data was sourced from the [Federal Reserve of Economic data website](https://fred.stlouisfed.org/series/WPU02230503). 
+Lobster producer price index data (used for time series analysis) was sourced from the [Federal Reserve of Economic data website](https://fred.stlouisfed.org/series/WPU02230503). 
 
 ## Tools
 Analysis was conducted using Jupiter notebooks, Anaconda libraries manager, and Python (with pandas, NumPy, os, matplotlib, scipy, seaborn, folium, and sklearn libraries).
