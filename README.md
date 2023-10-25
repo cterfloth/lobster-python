@@ -15,4 +15,4 @@ Lobster producer price index data (used for time series analysis) was sourced fr
 Analysis was conducted using Jupiter notebooks, Anaconda libraries manager, and Python (with pandas, NumPy, os, matplotlib, scipy, seaborn, folium, and sklearn libraries).
 
 ## Visualizations
-Project dashboard is available on Tableau Public via this link. The time series analysis and correlation matrix were not included in this storyboard. 
+Project dashboard is available on Tableau Public [via this link](https://public.tableau.com/app/profile/celine.terfloth/viz/MaineLobsterExploratoryAnalysis/MaineLobsterLandings2008-2022#1). The time series analysis and correlation matrix were not included in this storyboard. 
